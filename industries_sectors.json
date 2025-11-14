@@ -1,0 +1,4402 @@
+[
+  {
+    "label": "Crop Farming",
+    "value": "Crop Farming"
+  },
+  {
+    "label": "Dairy Farming",
+    "value": "Dairy Farming"
+  },
+  {
+    "label": "Poultry Farming",
+    "value": "Poultry Farming"
+  },
+  {
+    "label": "Horticulture",
+    "value": "Horticulture"
+  },
+  {
+    "label": "Viticulture",
+    "value": "Viticulture"
+  },
+  {
+    "label": "Aquaculture",
+    "value": "Aquaculture"
+  },
+  {
+    "label": "Fishing",
+    "value": "Fishing"
+  },
+  {
+    "label": "Forestry",
+    "value": "Forestry"
+  },
+  {
+    "label": "Timber Production",
+    "value": "Timber Production"
+  },
+  {
+    "label": "Seed Production",
+    "value": "Seed Production"
+  },
+  {
+    "label": "Orchard Farming",
+    "value": "Orchard Farming"
+  },
+  {
+    "label": "Organic Farming",
+    "value": "Organic Farming"
+  },
+  {
+    "label": "Greenhouse Farming",
+    "value": "Greenhouse Farming"
+  },
+  {
+    "label": "Hydroponic Farming",
+    "value": "Hydroponic Farming"
+  },
+  {
+    "label": "Agrochemical Production",
+    "value": "Agrochemical Production"
+  },
+  {
+    "label": "Fertilizer Production",
+    "value": "Fertilizer Production"
+  },
+  {
+    "label": "Irrigation Services",
+    "value": "Irrigation Services"
+  },
+  {
+    "label": "Farm Machinery Manufacturing",
+    "value": "Farm Machinery Manufacturing"
+  },
+  {
+    "label": "Agricultural Consultancy",
+    "value": "Agricultural Consultancy"
+  },
+  {
+    "label": "Beekeeping",
+    "value": "Beekeeping"
+  },
+  {
+    "label": "Coal Mining",
+    "value": "Coal Mining"
+  },
+  {
+    "label": "Gold Mining",
+    "value": "Gold Mining"
+  },
+  {
+    "label": "Copper Mining",
+    "value": "Copper Mining"
+  },
+  {
+    "label": "Iron Ore Mining",
+    "value": "Iron Ore Mining"
+  },
+  {
+    "label": "Lithium Mining",
+    "value": "Lithium Mining"
+  },
+  {
+    "label": "Rare Earth Mining",
+    "value": "Rare Earth Mining"
+  },
+  {
+    "label": "Oil Extraction",
+    "value": "Oil Extraction"
+  },
+  {
+    "label": "Natural Gas Extraction",
+    "value": "Natural Gas Extraction"
+  },
+  {
+    "label": "Oil & Gas Drilling Services",
+    "value": "Oil & Gas Drilling Services"
+  },
+  {
+    "label": "Petroleum Refining",
+    "value": "Petroleum Refining"
+  },
+  {
+    "label": "Uranium Mining",
+    "value": "Uranium Mining"
+  },
+  {
+    "label": "Coal Processing",
+    "value": "Coal Processing"
+  },
+  {
+    "label": "Geothermal Energy",
+    "value": "Geothermal Energy"
+  },
+  {
+    "label": "Solar Power Generation",
+    "value": "Solar Power Generation"
+  },
+  {
+    "label": "Wind Power Generation",
+    "value": "Wind Power Generation"
+  },
+  {
+    "label": "Hydroelectric Power",
+    "value": "Hydroelectric Power"
+  },
+  {
+    "label": "Biomass Energy",
+    "value": "Biomass Energy"
+  },
+  {
+    "label": "Nuclear Power Generation",
+    "value": "Nuclear Power Generation"
+  },
+  {
+    "label": "Electricity Transmission",
+    "value": "Electricity Transmission"
+  },
+  {
+    "label": "Energy Trading",
+    "value": "Energy Trading"
+  },
+  {
+    "label": "Automobile Manufacturing",
+    "value": "Automobile Manufacturing"
+  },
+  {
+    "label": "Auto Parts Manufacturing",
+    "value": "Auto Parts Manufacturing"
+  },
+  {
+    "label": "Aerospace Manufacturing",
+    "value": "Aerospace Manufacturing"
+  },
+  {
+    "label": "Aircraft Components Manufacturing",
+    "value": "Aircraft Components Manufacturing"
+  },
+  {
+    "label": "Shipbuilding",
+    "value": "Shipbuilding"
+  },
+  {
+    "label": "Railway Rolling Stock Manufacturing",
+    "value": "Railway Rolling Stock Manufacturing"
+  },
+  {
+    "label": "Heavy Machinery Manufacturing",
+    "value": "Heavy Machinery Manufacturing"
+  },
+  {
+    "label": "Construction Equipment Manufacturing",
+    "value": "Construction Equipment Manufacturing"
+  },
+  {
+    "label": "Industrial Machinery Manufacturing",
+    "value": "Industrial Machinery Manufacturing"
+  },
+  {
+    "label": "Textile Manufacturing",
+    "value": "Textile Manufacturing"
+  },
+  {
+    "label": "Apparel Manufacturing",
+    "value": "Apparel Manufacturing"
+  },
+  {
+    "label": "Footwear Manufacturing",
+    "value": "Footwear Manufacturing"
+  },
+  {
+    "label": "Leather Goods Manufacturing",
+    "value": "Leather Goods Manufacturing"
+  },
+  {
+    "label": "Furniture Manufacturing",
+    "value": "Furniture Manufacturing"
+  },
+  {
+    "label": "Wood Products Manufacturing",
+    "value": "Wood Products Manufacturing"
+  },
+  {
+    "label": "Paper Manufacturing",
+    "value": "Paper Manufacturing"
+  },
+  {
+    "label": "Pulp Production",
+    "value": "Pulp Production"
+  },
+  {
+    "label": "Printing & Publishing",
+    "value": "Printing & Publishing"
+  },
+  {
+    "label": "Plastic Product Manufacturing",
+    "value": "Plastic Product Manufacturing"
+  },
+  {
+    "label": "Rubber Product Manufacturing",
+    "value": "Rubber Product Manufacturing"
+  },
+  {
+    "label": "Glass Manufacturing",
+    "value": "Glass Manufacturing"
+  },
+  {
+    "label": "Ceramics Manufacturing",
+    "value": "Ceramics Manufacturing"
+  },
+  {
+    "label": "Steel Production",
+    "value": "Steel Production"
+  },
+  {
+    "label": "Aluminum Production",
+    "value": "Aluminum Production"
+  },
+  {
+    "label": "Metal Fabrication",
+    "value": "Metal Fabrication"
+  },
+  {
+    "label": "Foundry & Casting",
+    "value": "Foundry & Casting"
+  },
+  {
+    "label": "Precision Instrument Manufacturing",
+    "value": "Precision Instrument Manufacturing"
+  },
+  {
+    "label": "Tool & Die Manufacturing",
+    "value": "Tool & Die Manufacturing"
+  },
+  {
+    "label": "Electronics Manufacturing",
+    "value": "Electronics Manufacturing"
+  },
+  {
+    "label": "Semiconductor Fabrication",
+    "value": "Semiconductor Fabrication"
+  },
+  {
+    "label": "Printed Circuit Board Manufacturing",
+    "value": "Printed Circuit Board Manufacturing"
+  },
+  {
+    "label": "Consumer Electronics Manufacturing",
+    "value": "Consumer Electronics Manufacturing"
+  },
+  {
+    "label": "Home Appliance Manufacturing",
+    "value": "Home Appliance Manufacturing"
+  },
+  {
+    "label": "Battery Manufacturing",
+    "value": "Battery Manufacturing"
+  },
+  {
+    "label": "Medical Device Manufacturing",
+    "value": "Medical Device Manufacturing"
+  },
+  {
+    "label": "Pharmaceutical Manufacturing",
+    "value": "Pharmaceutical Manufacturing"
+  },
+  {
+    "label": "Cosmetics Manufacturing",
+    "value": "Cosmetics Manufacturing"
+  },
+  {
+    "label": "Chemical Manufacturing",
+    "value": "Chemical Manufacturing"
+  },
+  {
+    "label": "Petrochemical Manufacturing",
+    "value": "Petrochemical Manufacturing"
+  },
+  {
+    "label": "Paints & Coatings Manufacturing",
+    "value": "Paints & Coatings Manufacturing"
+  },
+  {
+    "label": "Adhesives Manufacturing",
+    "value": "Adhesives Manufacturing"
+  },
+  {
+    "label": "Industrial Gases Production",
+    "value": "Industrial Gases Production"
+  },
+  {
+    "label": "Fertilizer Manufacturing",
+    "value": "Fertilizer Manufacturing"
+  },
+  {
+    "label": "Pesticide Manufacturing",
+    "value": "Pesticide Manufacturing"
+  },
+  {
+    "label": "Explosives Manufacturing (industrial)",
+    "value": "Explosives Manufacturing (industrial)"
+  },
+  {
+    "label": "Food Processing",
+    "value": "Food Processing"
+  },
+  {
+    "label": "Meat Processing",
+    "value": "Meat Processing"
+  },
+  {
+    "label": "Seafood Processing",
+    "value": "Seafood Processing"
+  },
+  {
+    "label": "Dairy Products Processing",
+    "value": "Dairy Products Processing"
+  },
+  {
+    "label": "Beverage Production",
+    "value": "Beverage Production"
+  },
+  {
+    "label": "Brewing",
+    "value": "Brewing"
+  },
+  {
+    "label": "Winemaking",
+    "value": "Winemaking"
+  },
+  {
+    "label": "Distilling",
+    "value": "Distilling"
+  },
+  {
+    "label": "Confectionery Manufacturing",
+    "value": "Confectionery Manufacturing"
+  },
+  {
+    "label": "Snack Food Manufacturing",
+    "value": "Snack Food Manufacturing"
+  },
+  {
+    "label": "Frozen Foods Manufacturing",
+    "value": "Frozen Foods Manufacturing"
+  },
+  {
+    "label": "Bakery Products Manufacturing",
+    "value": "Bakery Products Manufacturing"
+  },
+  {
+    "label": "Canning & Preserving",
+    "value": "Canning & Preserving"
+  },
+  {
+    "label": "Fruit & Vegetable Processing",
+    "value": "Fruit & Vegetable Processing"
+  },
+  {
+    "label": "Commercial Banking",
+    "value": "Commercial Banking"
+  },
+  {
+    "label": "Retail Banking",
+    "value": "Retail Banking"
+  },
+  {
+    "label": "Investment Banking",
+    "value": "Investment Banking"
+  },
+  {
+    "label": "Insurance",
+    "value": "Insurance"
+  },
+  {
+    "label": "Reinsurance",
+    "value": "Reinsurance"
+  },
+  {
+    "label": "Asset Management",
+    "value": "Asset Management"
+  },
+  {
+    "label": "Venture Capital",
+    "value": "Venture Capital"
+  },
+  {
+    "label": "Private Equity",
+    "value": "Private Equity"
+  },
+  {
+    "label": "Stock Exchange Operations",
+    "value": "Stock Exchange Operations"
+  },
+  {
+    "label": "Fintech Services",
+    "value": "Fintech Services"
+  },
+  {
+    "label": "Payment Processing",
+    "value": "Payment Processing"
+  },
+  {
+    "label": "Accounting Services",
+    "value": "Accounting Services"
+  },
+  {
+    "label": "Auditing Services",
+    "value": "Auditing Services"
+  },
+  {
+    "label": "Tax Consultancy",
+    "value": "Tax Consultancy"
+  },
+  {
+    "label": "Legal Services",
+    "value": "Legal Services"
+  },
+  {
+    "label": "Corporate Law Practice",
+    "value": "Corporate Law Practice"
+  },
+  {
+    "label": "Intellectual Property Services",
+    "value": "Intellectual Property Services"
+  },
+  {
+    "label": "Management Consulting",
+    "value": "Management Consulting"
+  },
+  {
+    "label": "Human Resources Consulting",
+    "value": "Human Resources Consulting"
+  },
+  {
+    "label": "Recruitment Services",
+    "value": "Recruitment Services"
+  },
+  {
+    "label": "Marketing & Advertising",
+    "value": "Marketing & Advertising"
+  },
+  {
+    "label": "Public Relations",
+    "value": "Public Relations"
+  },
+  {
+    "label": "Branding Services",
+    "value": "Branding Services"
+  },
+  {
+    "label": "Digital Marketing",
+    "value": "Digital Marketing"
+  },
+  {
+    "label": "SEO Services",
+    "value": "SEO Services"
+  },
+  {
+    "label": "Content Marketing",
+    "value": "Content Marketing"
+  },
+  {
+    "label": "Market Research",
+    "value": "Market Research"
+  },
+  {
+    "label": "Event Management",
+    "value": "Event Management"
+  },
+  {
+    "label": "Travel Agencies",
+    "value": "Travel Agencies"
+  },
+  {
+    "label": "Tour Operators",
+    "value": "Tour Operators"
+  },
+  {
+    "label": "Hospitality Management",
+    "value": "Hospitality Management"
+  },
+  {
+    "label": "Hotel Operations",
+    "value": "Hotel Operations"
+  },
+  {
+    "label": "Resort Management",
+    "value": "Resort Management"
+  },
+  {
+    "label": "Restaurant Operations",
+    "value": "Restaurant Operations"
+  },
+  {
+    "label": "Catering Services",
+    "value": "Catering Services"
+  },
+  {
+    "label": "Food Delivery Services",
+    "value": "Food Delivery Services"
+  },
+  {
+    "label": "Retail Trade",
+    "value": "Retail Trade"
+  },
+  {
+    "label": "E-commerce Retail",
+    "value": "E-commerce Retail"
+  },
+  {
+    "label": "Wholesale Trade",
+    "value": "Wholesale Trade"
+  },
+  {
+    "label": "Franchising Services",
+    "value": "Franchising Services"
+  },
+  {
+    "label": "Logistics & Freight Forwarding",
+    "value": "Logistics & Freight Forwarding"
+  },
+  {
+    "label": "Courier Services",
+    "value": "Courier Services"
+  },
+  {
+    "label": "Cold Chain Logistics",
+    "value": "Cold Chain Logistics"
+  },
+  {
+    "label": "Warehousing",
+    "value": "Warehousing"
+  },
+  {
+    "label": "Third-Party Logistics (3PL)",
+    "value": "Third-Party Logistics (3PL)"
+  },
+  {
+    "label": "Supply Chain Consulting",
+    "value": "Supply Chain Consulting"
+  },
+  {
+    "label": "Customs Brokerage",
+    "value": "Customs Brokerage"
+  },
+  {
+    "label": "Port Operations",
+    "value": "Port Operations"
+  },
+  {
+    "label": "Maritime Shipping",
+    "value": "Maritime Shipping"
+  },
+  {
+    "label": "Inland Water Transport",
+    "value": "Inland Water Transport"
+  },
+  {
+    "label": "Rail Freight Services",
+    "value": "Rail Freight Services"
+  },
+  {
+    "label": "Air Cargo Services",
+    "value": "Air Cargo Services"
+  },
+  {
+    "label": "Ride-Hailing Services",
+    "value": "Ride-Hailing Services"
+  },
+  {
+    "label": "Car Rental Services",
+    "value": "Car Rental Services"
+  },
+  {
+    "label": "Taxi Services",
+    "value": "Taxi Services"
+  },
+  {
+    "label": "Software Development",
+    "value": "Software Development"
+  },
+  {
+    "label": "SaaS Platforms",
+    "value": "SaaS Platforms"
+  },
+  {
+    "label": "Mobile App Development",
+    "value": "Mobile App Development"
+  },
+  {
+    "label": "Web Development",
+    "value": "Web Development"
+  },
+  {
+    "label": "IT Consulting",
+    "value": "IT Consulting"
+  },
+  {
+    "label": "Cloud Computing Services",
+    "value": "Cloud Computing Services"
+  },
+  {
+    "label": "Data Center Operations",
+    "value": "Data Center Operations"
+  },
+  {
+    "label": "Managed IT Services",
+    "value": "Managed IT Services"
+  },
+  {
+    "label": "Cybersecurity Services",
+    "value": "Cybersecurity Services"
+  },
+  {
+    "label": "Network Services",
+    "value": "Network Services"
+  },
+  {
+    "label": "Telecommunications Services",
+    "value": "Telecommunications Services"
+  },
+  {
+    "label": "Internet Service Providers",
+    "value": "Internet Service Providers"
+  },
+  {
+    "label": "Satellite Communications",
+    "value": "Satellite Communications"
+  },
+  {
+    "label": "Broadband Infrastructure",
+    "value": "Broadband Infrastructure"
+  },
+  {
+    "label": "Fiber Optic Installation",
+    "value": "Fiber Optic Installation"
+  },
+  {
+    "label": "IT Outsourcing (ITO)",
+    "value": "IT Outsourcing (ITO)"
+  },
+  {
+    "label": "Business Process Outsourcing (BPO)",
+    "value": "Business Process Outsourcing (BPO)"
+  },
+  {
+    "label": "KPO Services",
+    "value": "KPO Services"
+  },
+  {
+    "label": "Call Center Services",
+    "value": "Call Center Services"
+  },
+  {
+    "label": "Artificial Intelligence Services",
+    "value": "Artificial Intelligence Services"
+  },
+  {
+    "label": "Machine Learning Solutions",
+    "value": "Machine Learning Solutions"
+  },
+  {
+    "label": "Robotics",
+    "value": "Robotics"
+  },
+  {
+    "label": "Automation Solutions",
+    "value": "Automation Solutions"
+  },
+  {
+    "label": "Industrial IoT",
+    "value": "Industrial IoT"
+  },
+  {
+    "label": "Consumer Internet Services",
+    "value": "Consumer Internet Services"
+  },
+  {
+    "label": "Social Media Platforms",
+    "value": "Social Media Platforms"
+  },
+  {
+    "label": "Gaming (Video Games)",
+    "value": "Gaming (Video Games)"
+  },
+  {
+    "label": "Esports",
+    "value": "Esports"
+  },
+  {
+    "label": "Virtual Reality",
+    "value": "Virtual Reality"
+  },
+  {
+    "label": "Augmented Reality",
+    "value": "Augmented Reality"
+  },
+  {
+    "label": "Blockchain Services",
+    "value": "Blockchain Services"
+  },
+  {
+    "label": "Cryptocurrency Exchanges",
+    "value": "Cryptocurrency Exchanges"
+  },
+  {
+    "label": "Smart Home Devices",
+    "value": "Smart Home Devices"
+  },
+  {
+    "label": "Wearable Technology",
+    "value": "Wearable Technology"
+  },
+  {
+    "label": "Fintech App Development",
+    "value": "Fintech App Development"
+  },
+  {
+    "label": "Hospital Operations",
+    "value": "Hospital Operations"
+  },
+  {
+    "label": "Primary Care Clinics",
+    "value": "Primary Care Clinics"
+  },
+  {
+    "label": "Specialty Clinics",
+    "value": "Specialty Clinics"
+  },
+  {
+    "label": "Dental Services",
+    "value": "Dental Services"
+  },
+  {
+    "label": "Optometry Services",
+    "value": "Optometry Services"
+  },
+  {
+    "label": "Diagnostic Laboratories",
+    "value": "Diagnostic Laboratories"
+  },
+  {
+    "label": "Medical Imaging Services",
+    "value": "Medical Imaging Services"
+  },
+  {
+    "label": "Telemedicine Services",
+    "value": "Telemedicine Services"
+  },
+  {
+    "label": "Home Healthcare Services",
+    "value": "Home Healthcare Services"
+  },
+  {
+    "label": "Nursing Homes",
+    "value": "Nursing Homes"
+  },
+  {
+    "label": "Rehabilitation Services",
+    "value": "Rehabilitation Services"
+  },
+  {
+    "label": "Pharmacy Retail",
+    "value": "Pharmacy Retail"
+  },
+  {
+    "label": "Pharmaceutical Distribution",
+    "value": "Pharmaceutical Distribution"
+  },
+  {
+    "label": "Clinical Research Organizations (CROs)",
+    "value": "Clinical Research Organizations (CROs)"
+  },
+  {
+    "label": "Biotech Research",
+    "value": "Biotech Research"
+  },
+  {
+    "label": "Genomics Services",
+    "value": "Genomics Services"
+  },
+  {
+    "label": "Vaccine Development",
+    "value": "Vaccine Development"
+  },
+  {
+    "label": "Medical Supplies Distribution",
+    "value": "Medical Supplies Distribution"
+  },
+  {
+    "label": "Healthcare IT",
+    "value": "Healthcare IT"
+  },
+  {
+    "label": "Health Insurance",
+    "value": "Health Insurance"
+  },
+  {
+    "label": "Medical Tourism Services",
+    "value": "Medical Tourism Services"
+  },
+  {
+    "label": "Primary Education",
+    "value": "Primary Education"
+  },
+  {
+    "label": "Secondary Education",
+    "value": "Secondary Education"
+  },
+  {
+    "label": "Higher Education",
+    "value": "Higher Education"
+  },
+  {
+    "label": "Vocational Training",
+    "value": "Vocational Training"
+  },
+  {
+    "label": "EdTech Platforms",
+    "value": "EdTech Platforms"
+  },
+  {
+    "label": "Online Courses",
+    "value": "Online Courses"
+  },
+  {
+    "label": "Test Preparation Services",
+    "value": "Test Preparation Services"
+  },
+  {
+    "label": "Language Schools",
+    "value": "Language Schools"
+  },
+  {
+    "label": "Tutoring Services",
+    "value": "Tutoring Services"
+  },
+  {
+    "label": "Corporate Training",
+    "value": "Corporate Training"
+  },
+  {
+    "label": "Educational Publishing",
+    "value": "Educational Publishing"
+  },
+  {
+    "label": "Residential Real Estate",
+    "value": "Residential Real Estate"
+  },
+  {
+    "label": "Commercial Real Estate",
+    "value": "Commercial Real Estate"
+  },
+  {
+    "label": "Property Management",
+    "value": "Property Management"
+  },
+  {
+    "label": "Real Estate Brokerage",
+    "value": "Real Estate Brokerage"
+  },
+  {
+    "label": "Real Estate Investment Trusts (REITs)",
+    "value": "Real Estate Investment Trusts (REITs)"
+  },
+  {
+    "label": "Construction Contracting",
+    "value": "Construction Contracting"
+  },
+  {
+    "label": "Building Materials Supply",
+    "value": "Building Materials Supply"
+  },
+  {
+    "label": "Civil Engineering Services",
+    "value": "Civil Engineering Services"
+  },
+  {
+    "label": "Architectural Services",
+    "value": "Architectural Services"
+  },
+  {
+    "label": "Interior Design",
+    "value": "Interior Design"
+  },
+  {
+    "label": "Urban Planning",
+    "value": "Urban Planning"
+  },
+  {
+    "label": "Landscape Architecture",
+    "value": "Landscape Architecture"
+  },
+  {
+    "label": "Infrastructure Development",
+    "value": "Infrastructure Development"
+  },
+  {
+    "label": "Road Construction",
+    "value": "Road Construction"
+  },
+  {
+    "label": "Bridge Construction",
+    "value": "Bridge Construction"
+  },
+  {
+    "label": "Film Production",
+    "value": "Film Production"
+  },
+  {
+    "label": "Television Broadcasting",
+    "value": "Television Broadcasting"
+  },
+  {
+    "label": "Streaming Services",
+    "value": "Streaming Services"
+  },
+  {
+    "label": "Music Production",
+    "value": "Music Production"
+  },
+  {
+    "label": "Music Publishing",
+    "value": "Music Publishing"
+  },
+  {
+    "label": "Radio Broadcasting",
+    "value": "Radio Broadcasting"
+  },
+  {
+    "label": "Podcast Production",
+    "value": "Podcast Production"
+  },
+  {
+    "label": "Book Publishing",
+    "value": "Book Publishing"
+  },
+  {
+    "label": "Magazine Publishing",
+    "value": "Magazine Publishing"
+  },
+  {
+    "label": "Newspaper Publishing",
+    "value": "Newspaper Publishing"
+  },
+  {
+    "label": "Advertising Agencies",
+    "value": "Advertising Agencies"
+  },
+  {
+    "label": "Talent Management",
+    "value": "Talent Management"
+  },
+  {
+    "label": "Theatre Production",
+    "value": "Theatre Production"
+  },
+  {
+    "label": "Live Events Production",
+    "value": "Live Events Production"
+  },
+  {
+    "label": "Theme Parks Operations",
+    "value": "Theme Parks Operations"
+  },
+  {
+    "label": "Animation Studios",
+    "value": "Animation Studios"
+  },
+  {
+    "label": "Visual Effects Services",
+    "value": "Visual Effects Services"
+  },
+  {
+    "label": "Public Administration",
+    "value": "Public Administration"
+  },
+  {
+    "label": "Defense & Military Services",
+    "value": "Defense & Military Services"
+  },
+  {
+    "label": "Law Enforcement Services",
+    "value": "Law Enforcement Services"
+  },
+  {
+    "label": "Emergency Services",
+    "value": "Emergency Services"
+  },
+  {
+    "label": "Public Health Services",
+    "value": "Public Health Services"
+  },
+  {
+    "label": "Non-Governmental Organizations (NGOs)",
+    "value": "Non-Governmental Organizations (NGOs)"
+  },
+  {
+    "label": "Charitable Foundations",
+    "value": "Charitable Foundations"
+  },
+  {
+    "label": "International Development",
+    "value": "International Development"
+  },
+  {
+    "label": "Social Work Services",
+    "value": "Social Work Services"
+  },
+  {
+    "label": "Environmental Services",
+    "value": "Environmental Services"
+  },
+  {
+    "label": "Waste Management",
+    "value": "Waste Management"
+  },
+  {
+    "label": "Recycling Services",
+    "value": "Recycling Services"
+  },
+  {
+    "label": "Water Treatment Services",
+    "value": "Water Treatment Services"
+  },
+  {
+    "label": "Pest Control Services",
+    "value": "Pest Control Services"
+  },
+  {
+    "label": "Cleaning Services",
+    "value": "Cleaning Services"
+  },
+  {
+    "label": "Security Services",
+    "value": "Security Services"
+  },
+  {
+    "label": "Private Security",
+    "value": "Private Security"
+  },
+  {
+    "label": "Event Security",
+    "value": "Event Security"
+  },
+  {
+    "label": "Landscape Services",
+    "value": "Landscape Services"
+  },
+  {
+    "label": "Interior Landscaping",
+    "value": "Interior Landscaping"
+  },
+  {
+    "label": "Crop Farming Research",
+    "value": "Crop Farming Research"
+  },
+  {
+    "label": "Crop Farming Manufacturing",
+    "value": "Crop Farming Manufacturing"
+  },
+  {
+    "label": "Crop Farming Distribution",
+    "value": "Crop Farming Distribution"
+  },
+  {
+    "label": "Crop Farming Services",
+    "value": "Crop Farming Services"
+  },
+  {
+    "label": "Crop Farming Consulting",
+    "value": "Crop Farming Consulting"
+  },
+  {
+    "label": "Crop Farming Solutions",
+    "value": "Crop Farming Solutions"
+  },
+  {
+    "label": "Crop Farming Systems",
+    "value": "Crop Farming Systems"
+  },
+  {
+    "label": "Crop Farming Equipment",
+    "value": "Crop Farming Equipment"
+  },
+  {
+    "label": "Crop Farming Maintenance",
+    "value": "Crop Farming Maintenance"
+  },
+  {
+    "label": "Crop Farming Repair",
+    "value": "Crop Farming Repair"
+  },
+  {
+    "label": "Crop Farming Installation",
+    "value": "Crop Farming Installation"
+  },
+  {
+    "label": "Crop Farming Logistics",
+    "value": "Crop Farming Logistics"
+  },
+  {
+    "label": "Crop Farming Supply",
+    "value": "Crop Farming Supply"
+  },
+  {
+    "label": "Crop Farming Wholesale",
+    "value": "Crop Farming Wholesale"
+  },
+  {
+    "label": "Crop Farming Retail",
+    "value": "Crop Farming Retail"
+  },
+  {
+    "label": "Crop Farming Technology",
+    "value": "Crop Farming Technology"
+  },
+  {
+    "label": "Crop Farming Software",
+    "value": "Crop Farming Software"
+  },
+  {
+    "label": "Crop Farming Hardware",
+    "value": "Crop Farming Hardware"
+  },
+  {
+    "label": "Crop Farming Analytics",
+    "value": "Crop Farming Analytics"
+  },
+  {
+    "label": "Crop Farming Testing",
+    "value": "Crop Farming Testing"
+  },
+  {
+    "label": "Crop Farming Calibration",
+    "value": "Crop Farming Calibration"
+  },
+  {
+    "label": "Crop Farming Certification",
+    "value": "Crop Farming Certification"
+  },
+  {
+    "label": "Crop Farming Training",
+    "value": "Crop Farming Training"
+  },
+  {
+    "label": "Crop Farming Design",
+    "value": "Crop Farming Design"
+  },
+  {
+    "label": "Crop Farming Engineering",
+    "value": "Crop Farming Engineering"
+  },
+  {
+    "label": "Crop Farming Operations",
+    "value": "Crop Farming Operations"
+  },
+  {
+    "label": "Crop Farming Management",
+    "value": "Crop Farming Management"
+  },
+  {
+    "label": "Crop Farming Sales",
+    "value": "Crop Farming Sales"
+  },
+  {
+    "label": "Crop Farming Development",
+    "value": "Crop Farming Development"
+  },
+  {
+    "label": "Crop Farming Production",
+    "value": "Crop Farming Production"
+  },
+  {
+    "label": "Crop Farming Processing",
+    "value": "Crop Farming Processing"
+  },
+  {
+    "label": "Crop Farming Packaging",
+    "value": "Crop Farming Packaging"
+  },
+  {
+    "label": "Crop Farming Export",
+    "value": "Crop Farming Export"
+  },
+  {
+    "label": "Crop Farming Import",
+    "value": "Crop Farming Import"
+  },
+  {
+    "label": "Crop Farming Trading",
+    "value": "Crop Farming Trading"
+  },
+  {
+    "label": "Crop Farming Leasing",
+    "value": "Crop Farming Leasing"
+  },
+  {
+    "label": "Crop Farming Financing",
+    "value": "Crop Farming Financing"
+  },
+  {
+    "label": "Crop Farming Insurance",
+    "value": "Crop Farming Insurance"
+  },
+  {
+    "label": "Crop Farming Monitoring",
+    "value": "Crop Farming Monitoring"
+  },
+  {
+    "label": "Crop Farming Testing",
+    "value": "Crop Farming Testing"
+  },
+  {
+    "label": "Crop Farming Compliance",
+    "value": "Crop Farming Compliance"
+  },
+  {
+    "label": "Dairy Farming Research",
+    "value": "Dairy Farming Research"
+  },
+  {
+    "label": "Dairy Farming Manufacturing",
+    "value": "Dairy Farming Manufacturing"
+  },
+  {
+    "label": "Dairy Farming Distribution",
+    "value": "Dairy Farming Distribution"
+  },
+  {
+    "label": "Dairy Farming Services",
+    "value": "Dairy Farming Services"
+  },
+  {
+    "label": "Dairy Farming Consulting",
+    "value": "Dairy Farming Consulting"
+  },
+  {
+    "label": "Dairy Farming Solutions",
+    "value": "Dairy Farming Solutions"
+  },
+  {
+    "label": "Dairy Farming Systems",
+    "value": "Dairy Farming Systems"
+  },
+  {
+    "label": "Dairy Farming Equipment",
+    "value": "Dairy Farming Equipment"
+  },
+  {
+    "label": "Dairy Farming Maintenance",
+    "value": "Dairy Farming Maintenance"
+  },
+  {
+    "label": "Dairy Farming Repair",
+    "value": "Dairy Farming Repair"
+  },
+  {
+    "label": "Dairy Farming Installation",
+    "value": "Dairy Farming Installation"
+  },
+  {
+    "label": "Dairy Farming Logistics",
+    "value": "Dairy Farming Logistics"
+  },
+  {
+    "label": "Dairy Farming Supply",
+    "value": "Dairy Farming Supply"
+  },
+  {
+    "label": "Dairy Farming Wholesale",
+    "value": "Dairy Farming Wholesale"
+  },
+  {
+    "label": "Dairy Farming Retail",
+    "value": "Dairy Farming Retail"
+  },
+  {
+    "label": "Dairy Farming Technology",
+    "value": "Dairy Farming Technology"
+  },
+  {
+    "label": "Dairy Farming Software",
+    "value": "Dairy Farming Software"
+  },
+  {
+    "label": "Dairy Farming Hardware",
+    "value": "Dairy Farming Hardware"
+  },
+  {
+    "label": "Dairy Farming Analytics",
+    "value": "Dairy Farming Analytics"
+  },
+  {
+    "label": "Dairy Farming Testing",
+    "value": "Dairy Farming Testing"
+  },
+  {
+    "label": "Dairy Farming Calibration",
+    "value": "Dairy Farming Calibration"
+  },
+  {
+    "label": "Dairy Farming Certification",
+    "value": "Dairy Farming Certification"
+  },
+  {
+    "label": "Dairy Farming Training",
+    "value": "Dairy Farming Training"
+  },
+  {
+    "label": "Dairy Farming Design",
+    "value": "Dairy Farming Design"
+  },
+  {
+    "label": "Dairy Farming Engineering",
+    "value": "Dairy Farming Engineering"
+  },
+  {
+    "label": "Dairy Farming Operations",
+    "value": "Dairy Farming Operations"
+  },
+  {
+    "label": "Dairy Farming Management",
+    "value": "Dairy Farming Management"
+  },
+  {
+    "label": "Dairy Farming Sales",
+    "value": "Dairy Farming Sales"
+  },
+  {
+    "label": "Dairy Farming Development",
+    "value": "Dairy Farming Development"
+  },
+  {
+    "label": "Dairy Farming Production",
+    "value": "Dairy Farming Production"
+  },
+  {
+    "label": "Dairy Farming Processing",
+    "value": "Dairy Farming Processing"
+  },
+  {
+    "label": "Dairy Farming Packaging",
+    "value": "Dairy Farming Packaging"
+  },
+  {
+    "label": "Dairy Farming Export",
+    "value": "Dairy Farming Export"
+  },
+  {
+    "label": "Dairy Farming Import",
+    "value": "Dairy Farming Import"
+  },
+  {
+    "label": "Dairy Farming Trading",
+    "value": "Dairy Farming Trading"
+  },
+  {
+    "label": "Dairy Farming Leasing",
+    "value": "Dairy Farming Leasing"
+  },
+  {
+    "label": "Dairy Farming Financing",
+    "value": "Dairy Farming Financing"
+  },
+  {
+    "label": "Dairy Farming Insurance",
+    "value": "Dairy Farming Insurance"
+  },
+  {
+    "label": "Dairy Farming Monitoring",
+    "value": "Dairy Farming Monitoring"
+  },
+  {
+    "label": "Dairy Farming Testing",
+    "value": "Dairy Farming Testing"
+  },
+  {
+    "label": "Dairy Farming Compliance",
+    "value": "Dairy Farming Compliance"
+  },
+  {
+    "label": "Poultry Farming Research",
+    "value": "Poultry Farming Research"
+  },
+  {
+    "label": "Poultry Farming Manufacturing",
+    "value": "Poultry Farming Manufacturing"
+  },
+  {
+    "label": "Poultry Farming Distribution",
+    "value": "Poultry Farming Distribution"
+  },
+  {
+    "label": "Poultry Farming Services",
+    "value": "Poultry Farming Services"
+  },
+  {
+    "label": "Poultry Farming Consulting",
+    "value": "Poultry Farming Consulting"
+  },
+  {
+    "label": "Poultry Farming Solutions",
+    "value": "Poultry Farming Solutions"
+  },
+  {
+    "label": "Poultry Farming Systems",
+    "value": "Poultry Farming Systems"
+  },
+  {
+    "label": "Poultry Farming Equipment",
+    "value": "Poultry Farming Equipment"
+  },
+  {
+    "label": "Poultry Farming Maintenance",
+    "value": "Poultry Farming Maintenance"
+  },
+  {
+    "label": "Poultry Farming Repair",
+    "value": "Poultry Farming Repair"
+  },
+  {
+    "label": "Poultry Farming Installation",
+    "value": "Poultry Farming Installation"
+  },
+  {
+    "label": "Poultry Farming Logistics",
+    "value": "Poultry Farming Logistics"
+  },
+  {
+    "label": "Poultry Farming Supply",
+    "value": "Poultry Farming Supply"
+  },
+  {
+    "label": "Poultry Farming Wholesale",
+    "value": "Poultry Farming Wholesale"
+  },
+  {
+    "label": "Poultry Farming Retail",
+    "value": "Poultry Farming Retail"
+  },
+  {
+    "label": "Poultry Farming Technology",
+    "value": "Poultry Farming Technology"
+  },
+  {
+    "label": "Poultry Farming Software",
+    "value": "Poultry Farming Software"
+  },
+  {
+    "label": "Poultry Farming Hardware",
+    "value": "Poultry Farming Hardware"
+  },
+  {
+    "label": "Poultry Farming Analytics",
+    "value": "Poultry Farming Analytics"
+  },
+  {
+    "label": "Poultry Farming Testing",
+    "value": "Poultry Farming Testing"
+  },
+  {
+    "label": "Poultry Farming Calibration",
+    "value": "Poultry Farming Calibration"
+  },
+  {
+    "label": "Poultry Farming Certification",
+    "value": "Poultry Farming Certification"
+  },
+  {
+    "label": "Poultry Farming Training",
+    "value": "Poultry Farming Training"
+  },
+  {
+    "label": "Poultry Farming Design",
+    "value": "Poultry Farming Design"
+  },
+  {
+    "label": "Poultry Farming Engineering",
+    "value": "Poultry Farming Engineering"
+  },
+  {
+    "label": "Poultry Farming Operations",
+    "value": "Poultry Farming Operations"
+  },
+  {
+    "label": "Poultry Farming Management",
+    "value": "Poultry Farming Management"
+  },
+  {
+    "label": "Poultry Farming Sales",
+    "value": "Poultry Farming Sales"
+  },
+  {
+    "label": "Poultry Farming Development",
+    "value": "Poultry Farming Development"
+  },
+  {
+    "label": "Poultry Farming Production",
+    "value": "Poultry Farming Production"
+  },
+  {
+    "label": "Poultry Farming Processing",
+    "value": "Poultry Farming Processing"
+  },
+  {
+    "label": "Poultry Farming Packaging",
+    "value": "Poultry Farming Packaging"
+  },
+  {
+    "label": "Poultry Farming Export",
+    "value": "Poultry Farming Export"
+  },
+  {
+    "label": "Poultry Farming Import",
+    "value": "Poultry Farming Import"
+  },
+  {
+    "label": "Poultry Farming Trading",
+    "value": "Poultry Farming Trading"
+  },
+  {
+    "label": "Poultry Farming Leasing",
+    "value": "Poultry Farming Leasing"
+  },
+  {
+    "label": "Poultry Farming Financing",
+    "value": "Poultry Farming Financing"
+  },
+  {
+    "label": "Poultry Farming Insurance",
+    "value": "Poultry Farming Insurance"
+  },
+  {
+    "label": "Poultry Farming Monitoring",
+    "value": "Poultry Farming Monitoring"
+  },
+  {
+    "label": "Poultry Farming Testing",
+    "value": "Poultry Farming Testing"
+  },
+  {
+    "label": "Poultry Farming Compliance",
+    "value": "Poultry Farming Compliance"
+  },
+  {
+    "label": "Horticulture Research",
+    "value": "Horticulture Research"
+  },
+  {
+    "label": "Horticulture Manufacturing",
+    "value": "Horticulture Manufacturing"
+  },
+  {
+    "label": "Horticulture Distribution",
+    "value": "Horticulture Distribution"
+  },
+  {
+    "label": "Horticulture Services",
+    "value": "Horticulture Services"
+  },
+  {
+    "label": "Horticulture Consulting",
+    "value": "Horticulture Consulting"
+  },
+  {
+    "label": "Horticulture Solutions",
+    "value": "Horticulture Solutions"
+  },
+  {
+    "label": "Horticulture Systems",
+    "value": "Horticulture Systems"
+  },
+  {
+    "label": "Horticulture Equipment",
+    "value": "Horticulture Equipment"
+  },
+  {
+    "label": "Horticulture Maintenance",
+    "value": "Horticulture Maintenance"
+  },
+  {
+    "label": "Horticulture Repair",
+    "value": "Horticulture Repair"
+  },
+  {
+    "label": "Horticulture Installation",
+    "value": "Horticulture Installation"
+  },
+  {
+    "label": "Horticulture Logistics",
+    "value": "Horticulture Logistics"
+  },
+  {
+    "label": "Horticulture Supply",
+    "value": "Horticulture Supply"
+  },
+  {
+    "label": "Horticulture Wholesale",
+    "value": "Horticulture Wholesale"
+  },
+  {
+    "label": "Horticulture Retail",
+    "value": "Horticulture Retail"
+  },
+  {
+    "label": "Horticulture Technology",
+    "value": "Horticulture Technology"
+  },
+  {
+    "label": "Horticulture Software",
+    "value": "Horticulture Software"
+  },
+  {
+    "label": "Horticulture Hardware",
+    "value": "Horticulture Hardware"
+  },
+  {
+    "label": "Horticulture Analytics",
+    "value": "Horticulture Analytics"
+  },
+  {
+    "label": "Horticulture Testing",
+    "value": "Horticulture Testing"
+  },
+  {
+    "label": "Horticulture Calibration",
+    "value": "Horticulture Calibration"
+  },
+  {
+    "label": "Horticulture Certification",
+    "value": "Horticulture Certification"
+  },
+  {
+    "label": "Horticulture Training",
+    "value": "Horticulture Training"
+  },
+  {
+    "label": "Horticulture Design",
+    "value": "Horticulture Design"
+  },
+  {
+    "label": "Horticulture Engineering",
+    "value": "Horticulture Engineering"
+  },
+  {
+    "label": "Horticulture Operations",
+    "value": "Horticulture Operations"
+  },
+  {
+    "label": "Horticulture Management",
+    "value": "Horticulture Management"
+  },
+  {
+    "label": "Horticulture Sales",
+    "value": "Horticulture Sales"
+  },
+  {
+    "label": "Horticulture Development",
+    "value": "Horticulture Development"
+  },
+  {
+    "label": "Horticulture Production",
+    "value": "Horticulture Production"
+  },
+  {
+    "label": "Horticulture Processing",
+    "value": "Horticulture Processing"
+  },
+  {
+    "label": "Horticulture Packaging",
+    "value": "Horticulture Packaging"
+  },
+  {
+    "label": "Horticulture Export",
+    "value": "Horticulture Export"
+  },
+  {
+    "label": "Horticulture Import",
+    "value": "Horticulture Import"
+  },
+  {
+    "label": "Horticulture Trading",
+    "value": "Horticulture Trading"
+  },
+  {
+    "label": "Horticulture Leasing",
+    "value": "Horticulture Leasing"
+  },
+  {
+    "label": "Horticulture Financing",
+    "value": "Horticulture Financing"
+  },
+  {
+    "label": "Horticulture Insurance",
+    "value": "Horticulture Insurance"
+  },
+  {
+    "label": "Horticulture Monitoring",
+    "value": "Horticulture Monitoring"
+  },
+  {
+    "label": "Horticulture Testing",
+    "value": "Horticulture Testing"
+  },
+  {
+    "label": "Horticulture Compliance",
+    "value": "Horticulture Compliance"
+  },
+  {
+    "label": "Viticulture Research",
+    "value": "Viticulture Research"
+  },
+  {
+    "label": "Viticulture Manufacturing",
+    "value": "Viticulture Manufacturing"
+  },
+  {
+    "label": "Viticulture Distribution",
+    "value": "Viticulture Distribution"
+  },
+  {
+    "label": "Viticulture Services",
+    "value": "Viticulture Services"
+  },
+  {
+    "label": "Viticulture Consulting",
+    "value": "Viticulture Consulting"
+  },
+  {
+    "label": "Viticulture Solutions",
+    "value": "Viticulture Solutions"
+  },
+  {
+    "label": "Viticulture Systems",
+    "value": "Viticulture Systems"
+  },
+  {
+    "label": "Viticulture Equipment",
+    "value": "Viticulture Equipment"
+  },
+  {
+    "label": "Viticulture Maintenance",
+    "value": "Viticulture Maintenance"
+  },
+  {
+    "label": "Viticulture Repair",
+    "value": "Viticulture Repair"
+  },
+  {
+    "label": "Viticulture Installation",
+    "value": "Viticulture Installation"
+  },
+  {
+    "label": "Viticulture Logistics",
+    "value": "Viticulture Logistics"
+  },
+  {
+    "label": "Viticulture Supply",
+    "value": "Viticulture Supply"
+  },
+  {
+    "label": "Viticulture Wholesale",
+    "value": "Viticulture Wholesale"
+  },
+  {
+    "label": "Viticulture Retail",
+    "value": "Viticulture Retail"
+  },
+  {
+    "label": "Viticulture Technology",
+    "value": "Viticulture Technology"
+  },
+  {
+    "label": "Viticulture Software",
+    "value": "Viticulture Software"
+  },
+  {
+    "label": "Viticulture Hardware",
+    "value": "Viticulture Hardware"
+  },
+  {
+    "label": "Viticulture Analytics",
+    "value": "Viticulture Analytics"
+  },
+  {
+    "label": "Viticulture Testing",
+    "value": "Viticulture Testing"
+  },
+  {
+    "label": "Viticulture Calibration",
+    "value": "Viticulture Calibration"
+  },
+  {
+    "label": "Viticulture Certification",
+    "value": "Viticulture Certification"
+  },
+  {
+    "label": "Viticulture Training",
+    "value": "Viticulture Training"
+  },
+  {
+    "label": "Viticulture Design",
+    "value": "Viticulture Design"
+  },
+  {
+    "label": "Viticulture Engineering",
+    "value": "Viticulture Engineering"
+  },
+  {
+    "label": "Viticulture Operations",
+    "value": "Viticulture Operations"
+  },
+  {
+    "label": "Viticulture Management",
+    "value": "Viticulture Management"
+  },
+  {
+    "label": "Viticulture Sales",
+    "value": "Viticulture Sales"
+  },
+  {
+    "label": "Viticulture Development",
+    "value": "Viticulture Development"
+  },
+  {
+    "label": "Viticulture Production",
+    "value": "Viticulture Production"
+  },
+  {
+    "label": "Viticulture Processing",
+    "value": "Viticulture Processing"
+  },
+  {
+    "label": "Viticulture Packaging",
+    "value": "Viticulture Packaging"
+  },
+  {
+    "label": "Viticulture Export",
+    "value": "Viticulture Export"
+  },
+  {
+    "label": "Viticulture Import",
+    "value": "Viticulture Import"
+  },
+  {
+    "label": "Viticulture Trading",
+    "value": "Viticulture Trading"
+  },
+  {
+    "label": "Viticulture Leasing",
+    "value": "Viticulture Leasing"
+  },
+  {
+    "label": "Viticulture Financing",
+    "value": "Viticulture Financing"
+  },
+  {
+    "label": "Viticulture Insurance",
+    "value": "Viticulture Insurance"
+  },
+  {
+    "label": "Viticulture Monitoring",
+    "value": "Viticulture Monitoring"
+  },
+  {
+    "label": "Viticulture Testing",
+    "value": "Viticulture Testing"
+  },
+  {
+    "label": "Viticulture Compliance",
+    "value": "Viticulture Compliance"
+  },
+  {
+    "label": "Aquaculture Research",
+    "value": "Aquaculture Research"
+  },
+  {
+    "label": "Aquaculture Manufacturing",
+    "value": "Aquaculture Manufacturing"
+  },
+  {
+    "label": "Aquaculture Distribution",
+    "value": "Aquaculture Distribution"
+  },
+  {
+    "label": "Aquaculture Services",
+    "value": "Aquaculture Services"
+  },
+  {
+    "label": "Aquaculture Consulting",
+    "value": "Aquaculture Consulting"
+  },
+  {
+    "label": "Aquaculture Solutions",
+    "value": "Aquaculture Solutions"
+  },
+  {
+    "label": "Aquaculture Systems",
+    "value": "Aquaculture Systems"
+  },
+  {
+    "label": "Aquaculture Equipment",
+    "value": "Aquaculture Equipment"
+  },
+  {
+    "label": "Aquaculture Maintenance",
+    "value": "Aquaculture Maintenance"
+  },
+  {
+    "label": "Aquaculture Repair",
+    "value": "Aquaculture Repair"
+  },
+  {
+    "label": "Aquaculture Installation",
+    "value": "Aquaculture Installation"
+  },
+  {
+    "label": "Aquaculture Logistics",
+    "value": "Aquaculture Logistics"
+  },
+  {
+    "label": "Aquaculture Supply",
+    "value": "Aquaculture Supply"
+  },
+  {
+    "label": "Aquaculture Wholesale",
+    "value": "Aquaculture Wholesale"
+  },
+  {
+    "label": "Aquaculture Retail",
+    "value": "Aquaculture Retail"
+  },
+  {
+    "label": "Aquaculture Technology",
+    "value": "Aquaculture Technology"
+  },
+  {
+    "label": "Aquaculture Software",
+    "value": "Aquaculture Software"
+  },
+  {
+    "label": "Aquaculture Hardware",
+    "value": "Aquaculture Hardware"
+  },
+  {
+    "label": "Aquaculture Analytics",
+    "value": "Aquaculture Analytics"
+  },
+  {
+    "label": "Aquaculture Testing",
+    "value": "Aquaculture Testing"
+  },
+  {
+    "label": "Aquaculture Calibration",
+    "value": "Aquaculture Calibration"
+  },
+  {
+    "label": "Aquaculture Certification",
+    "value": "Aquaculture Certification"
+  },
+  {
+    "label": "Aquaculture Training",
+    "value": "Aquaculture Training"
+  },
+  {
+    "label": "Aquaculture Design",
+    "value": "Aquaculture Design"
+  },
+  {
+    "label": "Aquaculture Engineering",
+    "value": "Aquaculture Engineering"
+  },
+  {
+    "label": "Aquaculture Operations",
+    "value": "Aquaculture Operations"
+  },
+  {
+    "label": "Aquaculture Management",
+    "value": "Aquaculture Management"
+  },
+  {
+    "label": "Aquaculture Sales",
+    "value": "Aquaculture Sales"
+  },
+  {
+    "label": "Aquaculture Development",
+    "value": "Aquaculture Development"
+  },
+  {
+    "label": "Aquaculture Production",
+    "value": "Aquaculture Production"
+  },
+  {
+    "label": "Aquaculture Processing",
+    "value": "Aquaculture Processing"
+  },
+  {
+    "label": "Aquaculture Packaging",
+    "value": "Aquaculture Packaging"
+  },
+  {
+    "label": "Aquaculture Export",
+    "value": "Aquaculture Export"
+  },
+  {
+    "label": "Aquaculture Import",
+    "value": "Aquaculture Import"
+  },
+  {
+    "label": "Aquaculture Trading",
+    "value": "Aquaculture Trading"
+  },
+  {
+    "label": "Aquaculture Leasing",
+    "value": "Aquaculture Leasing"
+  },
+  {
+    "label": "Aquaculture Financing",
+    "value": "Aquaculture Financing"
+  },
+  {
+    "label": "Aquaculture Insurance",
+    "value": "Aquaculture Insurance"
+  },
+  {
+    "label": "Aquaculture Monitoring",
+    "value": "Aquaculture Monitoring"
+  },
+  {
+    "label": "Aquaculture Testing",
+    "value": "Aquaculture Testing"
+  },
+  {
+    "label": "Aquaculture Compliance",
+    "value": "Aquaculture Compliance"
+  },
+  {
+    "label": "Fishing Research",
+    "value": "Fishing Research"
+  },
+  {
+    "label": "Fishing Manufacturing",
+    "value": "Fishing Manufacturing"
+  },
+  {
+    "label": "Fishing Distribution",
+    "value": "Fishing Distribution"
+  },
+  {
+    "label": "Fishing Services",
+    "value": "Fishing Services"
+  },
+  {
+    "label": "Fishing Consulting",
+    "value": "Fishing Consulting"
+  },
+  {
+    "label": "Fishing Solutions",
+    "value": "Fishing Solutions"
+  },
+  {
+    "label": "Fishing Systems",
+    "value": "Fishing Systems"
+  },
+  {
+    "label": "Fishing Equipment",
+    "value": "Fishing Equipment"
+  },
+  {
+    "label": "Fishing Maintenance",
+    "value": "Fishing Maintenance"
+  },
+  {
+    "label": "Fishing Repair",
+    "value": "Fishing Repair"
+  },
+  {
+    "label": "Fishing Installation",
+    "value": "Fishing Installation"
+  },
+  {
+    "label": "Fishing Logistics",
+    "value": "Fishing Logistics"
+  },
+  {
+    "label": "Fishing Supply",
+    "value": "Fishing Supply"
+  },
+  {
+    "label": "Fishing Wholesale",
+    "value": "Fishing Wholesale"
+  },
+  {
+    "label": "Fishing Retail",
+    "value": "Fishing Retail"
+  },
+  {
+    "label": "Fishing Technology",
+    "value": "Fishing Technology"
+  },
+  {
+    "label": "Fishing Software",
+    "value": "Fishing Software"
+  },
+  {
+    "label": "Fishing Hardware",
+    "value": "Fishing Hardware"
+  },
+  {
+    "label": "Fishing Analytics",
+    "value": "Fishing Analytics"
+  },
+  {
+    "label": "Fishing Testing",
+    "value": "Fishing Testing"
+  },
+  {
+    "label": "Fishing Calibration",
+    "value": "Fishing Calibration"
+  },
+  {
+    "label": "Fishing Certification",
+    "value": "Fishing Certification"
+  },
+  {
+    "label": "Fishing Training",
+    "value": "Fishing Training"
+  },
+  {
+    "label": "Fishing Design",
+    "value": "Fishing Design"
+  },
+  {
+    "label": "Fishing Engineering",
+    "value": "Fishing Engineering"
+  },
+  {
+    "label": "Fishing Operations",
+    "value": "Fishing Operations"
+  },
+  {
+    "label": "Fishing Management",
+    "value": "Fishing Management"
+  },
+  {
+    "label": "Fishing Sales",
+    "value": "Fishing Sales"
+  },
+  {
+    "label": "Fishing Development",
+    "value": "Fishing Development"
+  },
+  {
+    "label": "Fishing Production",
+    "value": "Fishing Production"
+  },
+  {
+    "label": "Fishing Processing",
+    "value": "Fishing Processing"
+  },
+  {
+    "label": "Fishing Packaging",
+    "value": "Fishing Packaging"
+  },
+  {
+    "label": "Fishing Export",
+    "value": "Fishing Export"
+  },
+  {
+    "label": "Fishing Import",
+    "value": "Fishing Import"
+  },
+  {
+    "label": "Fishing Trading",
+    "value": "Fishing Trading"
+  },
+  {
+    "label": "Fishing Leasing",
+    "value": "Fishing Leasing"
+  },
+  {
+    "label": "Fishing Financing",
+    "value": "Fishing Financing"
+  },
+  {
+    "label": "Fishing Insurance",
+    "value": "Fishing Insurance"
+  },
+  {
+    "label": "Fishing Monitoring",
+    "value": "Fishing Monitoring"
+  },
+  {
+    "label": "Fishing Testing",
+    "value": "Fishing Testing"
+  },
+  {
+    "label": "Fishing Compliance",
+    "value": "Fishing Compliance"
+  },
+  {
+    "label": "Forestry Research",
+    "value": "Forestry Research"
+  },
+  {
+    "label": "Forestry Manufacturing",
+    "value": "Forestry Manufacturing"
+  },
+  {
+    "label": "Forestry Distribution",
+    "value": "Forestry Distribution"
+  },
+  {
+    "label": "Forestry Services",
+    "value": "Forestry Services"
+  },
+  {
+    "label": "Forestry Consulting",
+    "value": "Forestry Consulting"
+  },
+  {
+    "label": "Forestry Solutions",
+    "value": "Forestry Solutions"
+  },
+  {
+    "label": "Forestry Systems",
+    "value": "Forestry Systems"
+  },
+  {
+    "label": "Forestry Equipment",
+    "value": "Forestry Equipment"
+  },
+  {
+    "label": "Forestry Maintenance",
+    "value": "Forestry Maintenance"
+  },
+  {
+    "label": "Forestry Repair",
+    "value": "Forestry Repair"
+  },
+  {
+    "label": "Forestry Installation",
+    "value": "Forestry Installation"
+  },
+  {
+    "label": "Forestry Logistics",
+    "value": "Forestry Logistics"
+  },
+  {
+    "label": "Forestry Supply",
+    "value": "Forestry Supply"
+  },
+  {
+    "label": "Forestry Wholesale",
+    "value": "Forestry Wholesale"
+  },
+  {
+    "label": "Forestry Retail",
+    "value": "Forestry Retail"
+  },
+  {
+    "label": "Forestry Technology",
+    "value": "Forestry Technology"
+  },
+  {
+    "label": "Forestry Software",
+    "value": "Forestry Software"
+  },
+  {
+    "label": "Forestry Hardware",
+    "value": "Forestry Hardware"
+  },
+  {
+    "label": "Forestry Analytics",
+    "value": "Forestry Analytics"
+  },
+  {
+    "label": "Forestry Testing",
+    "value": "Forestry Testing"
+  },
+  {
+    "label": "Forestry Calibration",
+    "value": "Forestry Calibration"
+  },
+  {
+    "label": "Forestry Certification",
+    "value": "Forestry Certification"
+  },
+  {
+    "label": "Forestry Training",
+    "value": "Forestry Training"
+  },
+  {
+    "label": "Forestry Design",
+    "value": "Forestry Design"
+  },
+  {
+    "label": "Forestry Engineering",
+    "value": "Forestry Engineering"
+  },
+  {
+    "label": "Forestry Operations",
+    "value": "Forestry Operations"
+  },
+  {
+    "label": "Forestry Management",
+    "value": "Forestry Management"
+  },
+  {
+    "label": "Forestry Sales",
+    "value": "Forestry Sales"
+  },
+  {
+    "label": "Forestry Development",
+    "value": "Forestry Development"
+  },
+  {
+    "label": "Forestry Production",
+    "value": "Forestry Production"
+  },
+  {
+    "label": "Forestry Processing",
+    "value": "Forestry Processing"
+  },
+  {
+    "label": "Forestry Packaging",
+    "value": "Forestry Packaging"
+  },
+  {
+    "label": "Forestry Export",
+    "value": "Forestry Export"
+  },
+  {
+    "label": "Forestry Import",
+    "value": "Forestry Import"
+  },
+  {
+    "label": "Forestry Trading",
+    "value": "Forestry Trading"
+  },
+  {
+    "label": "Forestry Leasing",
+    "value": "Forestry Leasing"
+  },
+  {
+    "label": "Forestry Financing",
+    "value": "Forestry Financing"
+  },
+  {
+    "label": "Forestry Insurance",
+    "value": "Forestry Insurance"
+  },
+  {
+    "label": "Forestry Monitoring",
+    "value": "Forestry Monitoring"
+  },
+  {
+    "label": "Forestry Testing",
+    "value": "Forestry Testing"
+  },
+  {
+    "label": "Forestry Compliance",
+    "value": "Forestry Compliance"
+  },
+  {
+    "label": "Timber Production Research",
+    "value": "Timber Production Research"
+  },
+  {
+    "label": "Timber Production Manufacturing",
+    "value": "Timber Production Manufacturing"
+  },
+  {
+    "label": "Timber Production Distribution",
+    "value": "Timber Production Distribution"
+  },
+  {
+    "label": "Timber Production Services",
+    "value": "Timber Production Services"
+  },
+  {
+    "label": "Timber Production Consulting",
+    "value": "Timber Production Consulting"
+  },
+  {
+    "label": "Timber Production Solutions",
+    "value": "Timber Production Solutions"
+  },
+  {
+    "label": "Timber Production Systems",
+    "value": "Timber Production Systems"
+  },
+  {
+    "label": "Timber Production Equipment",
+    "value": "Timber Production Equipment"
+  },
+  {
+    "label": "Timber Production Maintenance",
+    "value": "Timber Production Maintenance"
+  },
+  {
+    "label": "Timber Production Repair",
+    "value": "Timber Production Repair"
+  },
+  {
+    "label": "Timber Production Installation",
+    "value": "Timber Production Installation"
+  },
+  {
+    "label": "Timber Production Logistics",
+    "value": "Timber Production Logistics"
+  },
+  {
+    "label": "Timber Production Supply",
+    "value": "Timber Production Supply"
+  },
+  {
+    "label": "Timber Production Wholesale",
+    "value": "Timber Production Wholesale"
+  },
+  {
+    "label": "Timber Production Retail",
+    "value": "Timber Production Retail"
+  },
+  {
+    "label": "Timber Production Technology",
+    "value": "Timber Production Technology"
+  },
+  {
+    "label": "Timber Production Software",
+    "value": "Timber Production Software"
+  },
+  {
+    "label": "Timber Production Hardware",
+    "value": "Timber Production Hardware"
+  },
+  {
+    "label": "Timber Production Analytics",
+    "value": "Timber Production Analytics"
+  },
+  {
+    "label": "Timber Production Testing",
+    "value": "Timber Production Testing"
+  },
+  {
+    "label": "Timber Production Calibration",
+    "value": "Timber Production Calibration"
+  },
+  {
+    "label": "Timber Production Certification",
+    "value": "Timber Production Certification"
+  },
+  {
+    "label": "Timber Production Training",
+    "value": "Timber Production Training"
+  },
+  {
+    "label": "Timber Production Design",
+    "value": "Timber Production Design"
+  },
+  {
+    "label": "Timber Production Engineering",
+    "value": "Timber Production Engineering"
+  },
+  {
+    "label": "Timber Production Operations",
+    "value": "Timber Production Operations"
+  },
+  {
+    "label": "Timber Production Management",
+    "value": "Timber Production Management"
+  },
+  {
+    "label": "Timber Production Sales",
+    "value": "Timber Production Sales"
+  },
+  {
+    "label": "Timber Production Development",
+    "value": "Timber Production Development"
+  },
+  {
+    "label": "Timber Production Production",
+    "value": "Timber Production Production"
+  },
+  {
+    "label": "Timber Production Processing",
+    "value": "Timber Production Processing"
+  },
+  {
+    "label": "Timber Production Packaging",
+    "value": "Timber Production Packaging"
+  },
+  {
+    "label": "Timber Production Export",
+    "value": "Timber Production Export"
+  },
+  {
+    "label": "Timber Production Import",
+    "value": "Timber Production Import"
+  },
+  {
+    "label": "Timber Production Trading",
+    "value": "Timber Production Trading"
+  },
+  {
+    "label": "Timber Production Leasing",
+    "value": "Timber Production Leasing"
+  },
+  {
+    "label": "Timber Production Financing",
+    "value": "Timber Production Financing"
+  },
+  {
+    "label": "Timber Production Insurance",
+    "value": "Timber Production Insurance"
+  },
+  {
+    "label": "Timber Production Monitoring",
+    "value": "Timber Production Monitoring"
+  },
+  {
+    "label": "Timber Production Testing",
+    "value": "Timber Production Testing"
+  },
+  {
+    "label": "Timber Production Compliance",
+    "value": "Timber Production Compliance"
+  },
+  {
+    "label": "Seed Production Research",
+    "value": "Seed Production Research"
+  },
+  {
+    "label": "Seed Production Manufacturing",
+    "value": "Seed Production Manufacturing"
+  },
+  {
+    "label": "Seed Production Distribution",
+    "value": "Seed Production Distribution"
+  },
+  {
+    "label": "Seed Production Services",
+    "value": "Seed Production Services"
+  },
+  {
+    "label": "Seed Production Consulting",
+    "value": "Seed Production Consulting"
+  },
+  {
+    "label": "Seed Production Solutions",
+    "value": "Seed Production Solutions"
+  },
+  {
+    "label": "Seed Production Systems",
+    "value": "Seed Production Systems"
+  },
+  {
+    "label": "Seed Production Equipment",
+    "value": "Seed Production Equipment"
+  },
+  {
+    "label": "Seed Production Maintenance",
+    "value": "Seed Production Maintenance"
+  },
+  {
+    "label": "Seed Production Repair",
+    "value": "Seed Production Repair"
+  },
+  {
+    "label": "Seed Production Installation",
+    "value": "Seed Production Installation"
+  },
+  {
+    "label": "Seed Production Logistics",
+    "value": "Seed Production Logistics"
+  },
+  {
+    "label": "Seed Production Supply",
+    "value": "Seed Production Supply"
+  },
+  {
+    "label": "Seed Production Wholesale",
+    "value": "Seed Production Wholesale"
+  },
+  {
+    "label": "Seed Production Retail",
+    "value": "Seed Production Retail"
+  },
+  {
+    "label": "Seed Production Technology",
+    "value": "Seed Production Technology"
+  },
+  {
+    "label": "Seed Production Software",
+    "value": "Seed Production Software"
+  },
+  {
+    "label": "Seed Production Hardware",
+    "value": "Seed Production Hardware"
+  },
+  {
+    "label": "Seed Production Analytics",
+    "value": "Seed Production Analytics"
+  },
+  {
+    "label": "Seed Production Testing",
+    "value": "Seed Production Testing"
+  },
+  {
+    "label": "Seed Production Calibration",
+    "value": "Seed Production Calibration"
+  },
+  {
+    "label": "Seed Production Certification",
+    "value": "Seed Production Certification"
+  },
+  {
+    "label": "Seed Production Training",
+    "value": "Seed Production Training"
+  },
+  {
+    "label": "Seed Production Design",
+    "value": "Seed Production Design"
+  },
+  {
+    "label": "Seed Production Engineering",
+    "value": "Seed Production Engineering"
+  },
+  {
+    "label": "Seed Production Operations",
+    "value": "Seed Production Operations"
+  },
+  {
+    "label": "Seed Production Management",
+    "value": "Seed Production Management"
+  },
+  {
+    "label": "Seed Production Sales",
+    "value": "Seed Production Sales"
+  },
+  {
+    "label": "Seed Production Development",
+    "value": "Seed Production Development"
+  },
+  {
+    "label": "Seed Production Production",
+    "value": "Seed Production Production"
+  },
+  {
+    "label": "Seed Production Processing",
+    "value": "Seed Production Processing"
+  },
+  {
+    "label": "Seed Production Packaging",
+    "value": "Seed Production Packaging"
+  },
+  {
+    "label": "Seed Production Export",
+    "value": "Seed Production Export"
+  },
+  {
+    "label": "Seed Production Import",
+    "value": "Seed Production Import"
+  },
+  {
+    "label": "Seed Production Trading",
+    "value": "Seed Production Trading"
+  },
+  {
+    "label": "Seed Production Leasing",
+    "value": "Seed Production Leasing"
+  },
+  {
+    "label": "Seed Production Financing",
+    "value": "Seed Production Financing"
+  },
+  {
+    "label": "Seed Production Insurance",
+    "value": "Seed Production Insurance"
+  },
+  {
+    "label": "Seed Production Monitoring",
+    "value": "Seed Production Monitoring"
+  },
+  {
+    "label": "Seed Production Testing",
+    "value": "Seed Production Testing"
+  },
+  {
+    "label": "Seed Production Compliance",
+    "value": "Seed Production Compliance"
+  },
+  {
+    "label": "Orchard Farming Research",
+    "value": "Orchard Farming Research"
+  },
+  {
+    "label": "Orchard Farming Manufacturing",
+    "value": "Orchard Farming Manufacturing"
+  },
+  {
+    "label": "Orchard Farming Distribution",
+    "value": "Orchard Farming Distribution"
+  },
+  {
+    "label": "Orchard Farming Services",
+    "value": "Orchard Farming Services"
+  },
+  {
+    "label": "Orchard Farming Consulting",
+    "value": "Orchard Farming Consulting"
+  },
+  {
+    "label": "Orchard Farming Solutions",
+    "value": "Orchard Farming Solutions"
+  },
+  {
+    "label": "Orchard Farming Systems",
+    "value": "Orchard Farming Systems"
+  },
+  {
+    "label": "Orchard Farming Equipment",
+    "value": "Orchard Farming Equipment"
+  },
+  {
+    "label": "Orchard Farming Maintenance",
+    "value": "Orchard Farming Maintenance"
+  },
+  {
+    "label": "Orchard Farming Repair",
+    "value": "Orchard Farming Repair"
+  },
+  {
+    "label": "Orchard Farming Installation",
+    "value": "Orchard Farming Installation"
+  },
+  {
+    "label": "Orchard Farming Logistics",
+    "value": "Orchard Farming Logistics"
+  },
+  {
+    "label": "Orchard Farming Supply",
+    "value": "Orchard Farming Supply"
+  },
+  {
+    "label": "Orchard Farming Wholesale",
+    "value": "Orchard Farming Wholesale"
+  },
+  {
+    "label": "Orchard Farming Retail",
+    "value": "Orchard Farming Retail"
+  },
+  {
+    "label": "Orchard Farming Technology",
+    "value": "Orchard Farming Technology"
+  },
+  {
+    "label": "Orchard Farming Software",
+    "value": "Orchard Farming Software"
+  },
+  {
+    "label": "Orchard Farming Hardware",
+    "value": "Orchard Farming Hardware"
+  },
+  {
+    "label": "Orchard Farming Analytics",
+    "value": "Orchard Farming Analytics"
+  },
+  {
+    "label": "Orchard Farming Testing",
+    "value": "Orchard Farming Testing"
+  },
+  {
+    "label": "Orchard Farming Calibration",
+    "value": "Orchard Farming Calibration"
+  },
+  {
+    "label": "Orchard Farming Certification",
+    "value": "Orchard Farming Certification"
+  },
+  {
+    "label": "Orchard Farming Training",
+    "value": "Orchard Farming Training"
+  },
+  {
+    "label": "Orchard Farming Design",
+    "value": "Orchard Farming Design"
+  },
+  {
+    "label": "Orchard Farming Engineering",
+    "value": "Orchard Farming Engineering"
+  },
+  {
+    "label": "Orchard Farming Operations",
+    "value": "Orchard Farming Operations"
+  },
+  {
+    "label": "Orchard Farming Management",
+    "value": "Orchard Farming Management"
+  },
+  {
+    "label": "Orchard Farming Sales",
+    "value": "Orchard Farming Sales"
+  },
+  {
+    "label": "Orchard Farming Development",
+    "value": "Orchard Farming Development"
+  },
+  {
+    "label": "Orchard Farming Production",
+    "value": "Orchard Farming Production"
+  },
+  {
+    "label": "Orchard Farming Processing",
+    "value": "Orchard Farming Processing"
+  },
+  {
+    "label": "Orchard Farming Packaging",
+    "value": "Orchard Farming Packaging"
+  },
+  {
+    "label": "Orchard Farming Export",
+    "value": "Orchard Farming Export"
+  },
+  {
+    "label": "Orchard Farming Import",
+    "value": "Orchard Farming Import"
+  },
+  {
+    "label": "Orchard Farming Trading",
+    "value": "Orchard Farming Trading"
+  },
+  {
+    "label": "Orchard Farming Leasing",
+    "value": "Orchard Farming Leasing"
+  },
+  {
+    "label": "Orchard Farming Financing",
+    "value": "Orchard Farming Financing"
+  },
+  {
+    "label": "Orchard Farming Insurance",
+    "value": "Orchard Farming Insurance"
+  },
+  {
+    "label": "Orchard Farming Monitoring",
+    "value": "Orchard Farming Monitoring"
+  },
+  {
+    "label": "Orchard Farming Testing",
+    "value": "Orchard Farming Testing"
+  },
+  {
+    "label": "Orchard Farming Compliance",
+    "value": "Orchard Farming Compliance"
+  },
+  {
+    "label": "Organic Farming Research",
+    "value": "Organic Farming Research"
+  },
+  {
+    "label": "Organic Farming Manufacturing",
+    "value": "Organic Farming Manufacturing"
+  },
+  {
+    "label": "Organic Farming Distribution",
+    "value": "Organic Farming Distribution"
+  },
+  {
+    "label": "Organic Farming Services",
+    "value": "Organic Farming Services"
+  },
+  {
+    "label": "Organic Farming Consulting",
+    "value": "Organic Farming Consulting"
+  },
+  {
+    "label": "Organic Farming Solutions",
+    "value": "Organic Farming Solutions"
+  },
+  {
+    "label": "Organic Farming Systems",
+    "value": "Organic Farming Systems"
+  },
+  {
+    "label": "Organic Farming Equipment",
+    "value": "Organic Farming Equipment"
+  },
+  {
+    "label": "Organic Farming Maintenance",
+    "value": "Organic Farming Maintenance"
+  },
+  {
+    "label": "Organic Farming Repair",
+    "value": "Organic Farming Repair"
+  },
+  {
+    "label": "Organic Farming Installation",
+    "value": "Organic Farming Installation"
+  },
+  {
+    "label": "Organic Farming Logistics",
+    "value": "Organic Farming Logistics"
+  },
+  {
+    "label": "Organic Farming Supply",
+    "value": "Organic Farming Supply"
+  },
+  {
+    "label": "Organic Farming Wholesale",
+    "value": "Organic Farming Wholesale"
+  },
+  {
+    "label": "Organic Farming Retail",
+    "value": "Organic Farming Retail"
+  },
+  {
+    "label": "Organic Farming Technology",
+    "value": "Organic Farming Technology"
+  },
+  {
+    "label": "Organic Farming Software",
+    "value": "Organic Farming Software"
+  },
+  {
+    "label": "Organic Farming Hardware",
+    "value": "Organic Farming Hardware"
+  },
+  {
+    "label": "Organic Farming Analytics",
+    "value": "Organic Farming Analytics"
+  },
+  {
+    "label": "Organic Farming Testing",
+    "value": "Organic Farming Testing"
+  },
+  {
+    "label": "Organic Farming Calibration",
+    "value": "Organic Farming Calibration"
+  },
+  {
+    "label": "Organic Farming Certification",
+    "value": "Organic Farming Certification"
+  },
+  {
+    "label": "Organic Farming Training",
+    "value": "Organic Farming Training"
+  },
+  {
+    "label": "Organic Farming Design",
+    "value": "Organic Farming Design"
+  },
+  {
+    "label": "Organic Farming Engineering",
+    "value": "Organic Farming Engineering"
+  },
+  {
+    "label": "Organic Farming Operations",
+    "value": "Organic Farming Operations"
+  },
+  {
+    "label": "Organic Farming Management",
+    "value": "Organic Farming Management"
+  },
+  {
+    "label": "Organic Farming Sales",
+    "value": "Organic Farming Sales"
+  },
+  {
+    "label": "Organic Farming Development",
+    "value": "Organic Farming Development"
+  },
+  {
+    "label": "Organic Farming Production",
+    "value": "Organic Farming Production"
+  },
+  {
+    "label": "Organic Farming Processing",
+    "value": "Organic Farming Processing"
+  },
+  {
+    "label": "Organic Farming Packaging",
+    "value": "Organic Farming Packaging"
+  },
+  {
+    "label": "Organic Farming Export",
+    "value": "Organic Farming Export"
+  },
+  {
+    "label": "Organic Farming Import",
+    "value": "Organic Farming Import"
+  },
+  {
+    "label": "Organic Farming Trading",
+    "value": "Organic Farming Trading"
+  },
+  {
+    "label": "Organic Farming Leasing",
+    "value": "Organic Farming Leasing"
+  },
+  {
+    "label": "Organic Farming Financing",
+    "value": "Organic Farming Financing"
+  },
+  {
+    "label": "Organic Farming Insurance",
+    "value": "Organic Farming Insurance"
+  },
+  {
+    "label": "Organic Farming Monitoring",
+    "value": "Organic Farming Monitoring"
+  },
+  {
+    "label": "Organic Farming Testing",
+    "value": "Organic Farming Testing"
+  },
+  {
+    "label": "Organic Farming Compliance",
+    "value": "Organic Farming Compliance"
+  },
+  {
+    "label": "Greenhouse Farming Research",
+    "value": "Greenhouse Farming Research"
+  },
+  {
+    "label": "Greenhouse Farming Manufacturing",
+    "value": "Greenhouse Farming Manufacturing"
+  },
+  {
+    "label": "Greenhouse Farming Distribution",
+    "value": "Greenhouse Farming Distribution"
+  },
+  {
+    "label": "Greenhouse Farming Services",
+    "value": "Greenhouse Farming Services"
+  },
+  {
+    "label": "Greenhouse Farming Consulting",
+    "value": "Greenhouse Farming Consulting"
+  },
+  {
+    "label": "Greenhouse Farming Solutions",
+    "value": "Greenhouse Farming Solutions"
+  },
+  {
+    "label": "Greenhouse Farming Systems",
+    "value": "Greenhouse Farming Systems"
+  },
+  {
+    "label": "Greenhouse Farming Equipment",
+    "value": "Greenhouse Farming Equipment"
+  },
+  {
+    "label": "Greenhouse Farming Maintenance",
+    "value": "Greenhouse Farming Maintenance"
+  },
+  {
+    "label": "Greenhouse Farming Repair",
+    "value": "Greenhouse Farming Repair"
+  },
+  {
+    "label": "Greenhouse Farming Installation",
+    "value": "Greenhouse Farming Installation"
+  },
+  {
+    "label": "Greenhouse Farming Logistics",
+    "value": "Greenhouse Farming Logistics"
+  },
+  {
+    "label": "Greenhouse Farming Supply",
+    "value": "Greenhouse Farming Supply"
+  },
+  {
+    "label": "Greenhouse Farming Wholesale",
+    "value": "Greenhouse Farming Wholesale"
+  },
+  {
+    "label": "Greenhouse Farming Retail",
+    "value": "Greenhouse Farming Retail"
+  },
+  {
+    "label": "Greenhouse Farming Technology",
+    "value": "Greenhouse Farming Technology"
+  },
+  {
+    "label": "Greenhouse Farming Software",
+    "value": "Greenhouse Farming Software"
+  },
+  {
+    "label": "Greenhouse Farming Hardware",
+    "value": "Greenhouse Farming Hardware"
+  },
+  {
+    "label": "Greenhouse Farming Analytics",
+    "value": "Greenhouse Farming Analytics"
+  },
+  {
+    "label": "Greenhouse Farming Testing",
+    "value": "Greenhouse Farming Testing"
+  },
+  {
+    "label": "Greenhouse Farming Calibration",
+    "value": "Greenhouse Farming Calibration"
+  },
+  {
+    "label": "Greenhouse Farming Certification",
+    "value": "Greenhouse Farming Certification"
+  },
+  {
+    "label": "Greenhouse Farming Training",
+    "value": "Greenhouse Farming Training"
+  },
+  {
+    "label": "Greenhouse Farming Design",
+    "value": "Greenhouse Farming Design"
+  },
+  {
+    "label": "Greenhouse Farming Engineering",
+    "value": "Greenhouse Farming Engineering"
+  },
+  {
+    "label": "Greenhouse Farming Operations",
+    "value": "Greenhouse Farming Operations"
+  },
+  {
+    "label": "Greenhouse Farming Management",
+    "value": "Greenhouse Farming Management"
+  },
+  {
+    "label": "Greenhouse Farming Sales",
+    "value": "Greenhouse Farming Sales"
+  },
+  {
+    "label": "Greenhouse Farming Development",
+    "value": "Greenhouse Farming Development"
+  },
+  {
+    "label": "Greenhouse Farming Production",
+    "value": "Greenhouse Farming Production"
+  },
+  {
+    "label": "Greenhouse Farming Processing",
+    "value": "Greenhouse Farming Processing"
+  },
+  {
+    "label": "Greenhouse Farming Packaging",
+    "value": "Greenhouse Farming Packaging"
+  },
+  {
+    "label": "Greenhouse Farming Export",
+    "value": "Greenhouse Farming Export"
+  },
+  {
+    "label": "Greenhouse Farming Import",
+    "value": "Greenhouse Farming Import"
+  },
+  {
+    "label": "Greenhouse Farming Trading",
+    "value": "Greenhouse Farming Trading"
+  },
+  {
+    "label": "Greenhouse Farming Leasing",
+    "value": "Greenhouse Farming Leasing"
+  },
+  {
+    "label": "Greenhouse Farming Financing",
+    "value": "Greenhouse Farming Financing"
+  },
+  {
+    "label": "Greenhouse Farming Insurance",
+    "value": "Greenhouse Farming Insurance"
+  },
+  {
+    "label": "Greenhouse Farming Monitoring",
+    "value": "Greenhouse Farming Monitoring"
+  },
+  {
+    "label": "Greenhouse Farming Testing",
+    "value": "Greenhouse Farming Testing"
+  },
+  {
+    "label": "Greenhouse Farming Compliance",
+    "value": "Greenhouse Farming Compliance"
+  },
+  {
+    "label": "Hydroponic Farming Research",
+    "value": "Hydroponic Farming Research"
+  },
+  {
+    "label": "Hydroponic Farming Manufacturing",
+    "value": "Hydroponic Farming Manufacturing"
+  },
+  {
+    "label": "Hydroponic Farming Distribution",
+    "value": "Hydroponic Farming Distribution"
+  },
+  {
+    "label": "Hydroponic Farming Services",
+    "value": "Hydroponic Farming Services"
+  },
+  {
+    "label": "Hydroponic Farming Consulting",
+    "value": "Hydroponic Farming Consulting"
+  },
+  {
+    "label": "Hydroponic Farming Solutions",
+    "value": "Hydroponic Farming Solutions"
+  },
+  {
+    "label": "Hydroponic Farming Systems",
+    "value": "Hydroponic Farming Systems"
+  },
+  {
+    "label": "Hydroponic Farming Equipment",
+    "value": "Hydroponic Farming Equipment"
+  },
+  {
+    "label": "Hydroponic Farming Maintenance",
+    "value": "Hydroponic Farming Maintenance"
+  },
+  {
+    "label": "Hydroponic Farming Repair",
+    "value": "Hydroponic Farming Repair"
+  },
+  {
+    "label": "Hydroponic Farming Installation",
+    "value": "Hydroponic Farming Installation"
+  },
+  {
+    "label": "Hydroponic Farming Logistics",
+    "value": "Hydroponic Farming Logistics"
+  },
+  {
+    "label": "Hydroponic Farming Supply",
+    "value": "Hydroponic Farming Supply"
+  },
+  {
+    "label": "Hydroponic Farming Wholesale",
+    "value": "Hydroponic Farming Wholesale"
+  },
+  {
+    "label": "Hydroponic Farming Retail",
+    "value": "Hydroponic Farming Retail"
+  },
+  {
+    "label": "Hydroponic Farming Technology",
+    "value": "Hydroponic Farming Technology"
+  },
+  {
+    "label": "Hydroponic Farming Software",
+    "value": "Hydroponic Farming Software"
+  },
+  {
+    "label": "Hydroponic Farming Hardware",
+    "value": "Hydroponic Farming Hardware"
+  },
+  {
+    "label": "Hydroponic Farming Analytics",
+    "value": "Hydroponic Farming Analytics"
+  },
+  {
+    "label": "Hydroponic Farming Testing",
+    "value": "Hydroponic Farming Testing"
+  },
+  {
+    "label": "Hydroponic Farming Calibration",
+    "value": "Hydroponic Farming Calibration"
+  },
+  {
+    "label": "Hydroponic Farming Certification",
+    "value": "Hydroponic Farming Certification"
+  },
+  {
+    "label": "Hydroponic Farming Training",
+    "value": "Hydroponic Farming Training"
+  },
+  {
+    "label": "Hydroponic Farming Design",
+    "value": "Hydroponic Farming Design"
+  },
+  {
+    "label": "Hydroponic Farming Engineering",
+    "value": "Hydroponic Farming Engineering"
+  },
+  {
+    "label": "Hydroponic Farming Operations",
+    "value": "Hydroponic Farming Operations"
+  },
+  {
+    "label": "Hydroponic Farming Management",
+    "value": "Hydroponic Farming Management"
+  },
+  {
+    "label": "Hydroponic Farming Sales",
+    "value": "Hydroponic Farming Sales"
+  },
+  {
+    "label": "Hydroponic Farming Development",
+    "value": "Hydroponic Farming Development"
+  },
+  {
+    "label": "Hydroponic Farming Production",
+    "value": "Hydroponic Farming Production"
+  },
+  {
+    "label": "Hydroponic Farming Processing",
+    "value": "Hydroponic Farming Processing"
+  },
+  {
+    "label": "Hydroponic Farming Packaging",
+    "value": "Hydroponic Farming Packaging"
+  },
+  {
+    "label": "Hydroponic Farming Export",
+    "value": "Hydroponic Farming Export"
+  },
+  {
+    "label": "Hydroponic Farming Import",
+    "value": "Hydroponic Farming Import"
+  },
+  {
+    "label": "Hydroponic Farming Trading",
+    "value": "Hydroponic Farming Trading"
+  },
+  {
+    "label": "Hydroponic Farming Leasing",
+    "value": "Hydroponic Farming Leasing"
+  },
+  {
+    "label": "Hydroponic Farming Financing",
+    "value": "Hydroponic Farming Financing"
+  },
+  {
+    "label": "Hydroponic Farming Insurance",
+    "value": "Hydroponic Farming Insurance"
+  },
+  {
+    "label": "Hydroponic Farming Monitoring",
+    "value": "Hydroponic Farming Monitoring"
+  },
+  {
+    "label": "Hydroponic Farming Testing",
+    "value": "Hydroponic Farming Testing"
+  },
+  {
+    "label": "Hydroponic Farming Compliance",
+    "value": "Hydroponic Farming Compliance"
+  },
+  {
+    "label": "Agrochemical Production Research",
+    "value": "Agrochemical Production Research"
+  },
+  {
+    "label": "Agrochemical Production Manufacturing",
+    "value": "Agrochemical Production Manufacturing"
+  },
+  {
+    "label": "Agrochemical Production Distribution",
+    "value": "Agrochemical Production Distribution"
+  },
+  {
+    "label": "Agrochemical Production Services",
+    "value": "Agrochemical Production Services"
+  },
+  {
+    "label": "Agrochemical Production Consulting",
+    "value": "Agrochemical Production Consulting"
+  },
+  {
+    "label": "Agrochemical Production Solutions",
+    "value": "Agrochemical Production Solutions"
+  },
+  {
+    "label": "Agrochemical Production Systems",
+    "value": "Agrochemical Production Systems"
+  },
+  {
+    "label": "Agrochemical Production Equipment",
+    "value": "Agrochemical Production Equipment"
+  },
+  {
+    "label": "Agrochemical Production Maintenance",
+    "value": "Agrochemical Production Maintenance"
+  },
+  {
+    "label": "Agrochemical Production Repair",
+    "value": "Agrochemical Production Repair"
+  },
+  {
+    "label": "Agrochemical Production Installation",
+    "value": "Agrochemical Production Installation"
+  },
+  {
+    "label": "Agrochemical Production Logistics",
+    "value": "Agrochemical Production Logistics"
+  },
+  {
+    "label": "Agrochemical Production Supply",
+    "value": "Agrochemical Production Supply"
+  },
+  {
+    "label": "Agrochemical Production Wholesale",
+    "value": "Agrochemical Production Wholesale"
+  },
+  {
+    "label": "Agrochemical Production Retail",
+    "value": "Agrochemical Production Retail"
+  },
+  {
+    "label": "Agrochemical Production Technology",
+    "value": "Agrochemical Production Technology"
+  },
+  {
+    "label": "Agrochemical Production Software",
+    "value": "Agrochemical Production Software"
+  },
+  {
+    "label": "Agrochemical Production Hardware",
+    "value": "Agrochemical Production Hardware"
+  },
+  {
+    "label": "Agrochemical Production Analytics",
+    "value": "Agrochemical Production Analytics"
+  },
+  {
+    "label": "Agrochemical Production Testing",
+    "value": "Agrochemical Production Testing"
+  },
+  {
+    "label": "Agrochemical Production Calibration",
+    "value": "Agrochemical Production Calibration"
+  },
+  {
+    "label": "Agrochemical Production Certification",
+    "value": "Agrochemical Production Certification"
+  },
+  {
+    "label": "Agrochemical Production Training",
+    "value": "Agrochemical Production Training"
+  },
+  {
+    "label": "Agrochemical Production Design",
+    "value": "Agrochemical Production Design"
+  },
+  {
+    "label": "Agrochemical Production Engineering",
+    "value": "Agrochemical Production Engineering"
+  },
+  {
+    "label": "Agrochemical Production Operations",
+    "value": "Agrochemical Production Operations"
+  },
+  {
+    "label": "Agrochemical Production Management",
+    "value": "Agrochemical Production Management"
+  },
+  {
+    "label": "Agrochemical Production Sales",
+    "value": "Agrochemical Production Sales"
+  },
+  {
+    "label": "Agrochemical Production Development",
+    "value": "Agrochemical Production Development"
+  },
+  {
+    "label": "Agrochemical Production Production",
+    "value": "Agrochemical Production Production"
+  },
+  {
+    "label": "Agrochemical Production Processing",
+    "value": "Agrochemical Production Processing"
+  },
+  {
+    "label": "Agrochemical Production Packaging",
+    "value": "Agrochemical Production Packaging"
+  },
+  {
+    "label": "Agrochemical Production Export",
+    "value": "Agrochemical Production Export"
+  },
+  {
+    "label": "Agrochemical Production Import",
+    "value": "Agrochemical Production Import"
+  },
+  {
+    "label": "Agrochemical Production Trading",
+    "value": "Agrochemical Production Trading"
+  },
+  {
+    "label": "Agrochemical Production Leasing",
+    "value": "Agrochemical Production Leasing"
+  },
+  {
+    "label": "Agrochemical Production Financing",
+    "value": "Agrochemical Production Financing"
+  },
+  {
+    "label": "Agrochemical Production Insurance",
+    "value": "Agrochemical Production Insurance"
+  },
+  {
+    "label": "Agrochemical Production Monitoring",
+    "value": "Agrochemical Production Monitoring"
+  },
+  {
+    "label": "Agrochemical Production Testing",
+    "value": "Agrochemical Production Testing"
+  },
+  {
+    "label": "Agrochemical Production Compliance",
+    "value": "Agrochemical Production Compliance"
+  },
+  {
+    "label": "Fertilizer Production Research",
+    "value": "Fertilizer Production Research"
+  },
+  {
+    "label": "Fertilizer Production Manufacturing",
+    "value": "Fertilizer Production Manufacturing"
+  },
+  {
+    "label": "Fertilizer Production Distribution",
+    "value": "Fertilizer Production Distribution"
+  },
+  {
+    "label": "Fertilizer Production Services",
+    "value": "Fertilizer Production Services"
+  },
+  {
+    "label": "Fertilizer Production Consulting",
+    "value": "Fertilizer Production Consulting"
+  },
+  {
+    "label": "Fertilizer Production Solutions",
+    "value": "Fertilizer Production Solutions"
+  },
+  {
+    "label": "Fertilizer Production Systems",
+    "value": "Fertilizer Production Systems"
+  },
+  {
+    "label": "Fertilizer Production Equipment",
+    "value": "Fertilizer Production Equipment"
+  },
+  {
+    "label": "Fertilizer Production Maintenance",
+    "value": "Fertilizer Production Maintenance"
+  },
+  {
+    "label": "Fertilizer Production Repair",
+    "value": "Fertilizer Production Repair"
+  },
+  {
+    "label": "Fertilizer Production Installation",
+    "value": "Fertilizer Production Installation"
+  },
+  {
+    "label": "Fertilizer Production Logistics",
+    "value": "Fertilizer Production Logistics"
+  },
+  {
+    "label": "Fertilizer Production Supply",
+    "value": "Fertilizer Production Supply"
+  },
+  {
+    "label": "Fertilizer Production Wholesale",
+    "value": "Fertilizer Production Wholesale"
+  },
+  {
+    "label": "Fertilizer Production Retail",
+    "value": "Fertilizer Production Retail"
+  },
+  {
+    "label": "Fertilizer Production Technology",
+    "value": "Fertilizer Production Technology"
+  },
+  {
+    "label": "Fertilizer Production Software",
+    "value": "Fertilizer Production Software"
+  },
+  {
+    "label": "Fertilizer Production Hardware",
+    "value": "Fertilizer Production Hardware"
+  },
+  {
+    "label": "Fertilizer Production Analytics",
+    "value": "Fertilizer Production Analytics"
+  },
+  {
+    "label": "Fertilizer Production Testing",
+    "value": "Fertilizer Production Testing"
+  },
+  {
+    "label": "Fertilizer Production Calibration",
+    "value": "Fertilizer Production Calibration"
+  },
+  {
+    "label": "Fertilizer Production Certification",
+    "value": "Fertilizer Production Certification"
+  },
+  {
+    "label": "Fertilizer Production Training",
+    "value": "Fertilizer Production Training"
+  },
+  {
+    "label": "Fertilizer Production Design",
+    "value": "Fertilizer Production Design"
+  },
+  {
+    "label": "Fertilizer Production Engineering",
+    "value": "Fertilizer Production Engineering"
+  },
+  {
+    "label": "Fertilizer Production Operations",
+    "value": "Fertilizer Production Operations"
+  },
+  {
+    "label": "Fertilizer Production Management",
+    "value": "Fertilizer Production Management"
+  },
+  {
+    "label": "Fertilizer Production Sales",
+    "value": "Fertilizer Production Sales"
+  },
+  {
+    "label": "Fertilizer Production Development",
+    "value": "Fertilizer Production Development"
+  },
+  {
+    "label": "Fertilizer Production Production",
+    "value": "Fertilizer Production Production"
+  },
+  {
+    "label": "Fertilizer Production Processing",
+    "value": "Fertilizer Production Processing"
+  },
+  {
+    "label": "Fertilizer Production Packaging",
+    "value": "Fertilizer Production Packaging"
+  },
+  {
+    "label": "Fertilizer Production Export",
+    "value": "Fertilizer Production Export"
+  },
+  {
+    "label": "Fertilizer Production Import",
+    "value": "Fertilizer Production Import"
+  },
+  {
+    "label": "Fertilizer Production Trading",
+    "value": "Fertilizer Production Trading"
+  },
+  {
+    "label": "Fertilizer Production Leasing",
+    "value": "Fertilizer Production Leasing"
+  },
+  {
+    "label": "Fertilizer Production Financing",
+    "value": "Fertilizer Production Financing"
+  },
+  {
+    "label": "Fertilizer Production Insurance",
+    "value": "Fertilizer Production Insurance"
+  },
+  {
+    "label": "Fertilizer Production Monitoring",
+    "value": "Fertilizer Production Monitoring"
+  },
+  {
+    "label": "Fertilizer Production Testing",
+    "value": "Fertilizer Production Testing"
+  },
+  {
+    "label": "Fertilizer Production Compliance",
+    "value": "Fertilizer Production Compliance"
+  },
+  {
+    "label": "Irrigation Services Research",
+    "value": "Irrigation Services Research"
+  },
+  {
+    "label": "Irrigation Services Manufacturing",
+    "value": "Irrigation Services Manufacturing"
+  },
+  {
+    "label": "Irrigation Services Distribution",
+    "value": "Irrigation Services Distribution"
+  },
+  {
+    "label": "Irrigation Services Services",
+    "value": "Irrigation Services Services"
+  },
+  {
+    "label": "Irrigation Services Consulting",
+    "value": "Irrigation Services Consulting"
+  },
+  {
+    "label": "Irrigation Services Solutions",
+    "value": "Irrigation Services Solutions"
+  },
+  {
+    "label": "Irrigation Services Systems",
+    "value": "Irrigation Services Systems"
+  },
+  {
+    "label": "Irrigation Services Equipment",
+    "value": "Irrigation Services Equipment"
+  },
+  {
+    "label": "Irrigation Services Maintenance",
+    "value": "Irrigation Services Maintenance"
+  },
+  {
+    "label": "Irrigation Services Repair",
+    "value": "Irrigation Services Repair"
+  },
+  {
+    "label": "Irrigation Services Installation",
+    "value": "Irrigation Services Installation"
+  },
+  {
+    "label": "Irrigation Services Logistics",
+    "value": "Irrigation Services Logistics"
+  },
+  {
+    "label": "Irrigation Services Supply",
+    "value": "Irrigation Services Supply"
+  },
+  {
+    "label": "Irrigation Services Wholesale",
+    "value": "Irrigation Services Wholesale"
+  },
+  {
+    "label": "Irrigation Services Retail",
+    "value": "Irrigation Services Retail"
+  },
+  {
+    "label": "Irrigation Services Technology",
+    "value": "Irrigation Services Technology"
+  },
+  {
+    "label": "Irrigation Services Software",
+    "value": "Irrigation Services Software"
+  },
+  {
+    "label": "Irrigation Services Hardware",
+    "value": "Irrigation Services Hardware"
+  },
+  {
+    "label": "Irrigation Services Analytics",
+    "value": "Irrigation Services Analytics"
+  },
+  {
+    "label": "Irrigation Services Testing",
+    "value": "Irrigation Services Testing"
+  },
+  {
+    "label": "Irrigation Services Calibration",
+    "value": "Irrigation Services Calibration"
+  },
+  {
+    "label": "Irrigation Services Certification",
+    "value": "Irrigation Services Certification"
+  },
+  {
+    "label": "Irrigation Services Training",
+    "value": "Irrigation Services Training"
+  },
+  {
+    "label": "Irrigation Services Design",
+    "value": "Irrigation Services Design"
+  },
+  {
+    "label": "Irrigation Services Engineering",
+    "value": "Irrigation Services Engineering"
+  },
+  {
+    "label": "Irrigation Services Operations",
+    "value": "Irrigation Services Operations"
+  },
+  {
+    "label": "Irrigation Services Management",
+    "value": "Irrigation Services Management"
+  },
+  {
+    "label": "Irrigation Services Sales",
+    "value": "Irrigation Services Sales"
+  },
+  {
+    "label": "Irrigation Services Development",
+    "value": "Irrigation Services Development"
+  },
+  {
+    "label": "Irrigation Services Production",
+    "value": "Irrigation Services Production"
+  },
+  {
+    "label": "Irrigation Services Processing",
+    "value": "Irrigation Services Processing"
+  },
+  {
+    "label": "Irrigation Services Packaging",
+    "value": "Irrigation Services Packaging"
+  },
+  {
+    "label": "Irrigation Services Export",
+    "value": "Irrigation Services Export"
+  },
+  {
+    "label": "Irrigation Services Import",
+    "value": "Irrigation Services Import"
+  },
+  {
+    "label": "Irrigation Services Trading",
+    "value": "Irrigation Services Trading"
+  },
+  {
+    "label": "Irrigation Services Leasing",
+    "value": "Irrigation Services Leasing"
+  },
+  {
+    "label": "Irrigation Services Financing",
+    "value": "Irrigation Services Financing"
+  },
+  {
+    "label": "Irrigation Services Insurance",
+    "value": "Irrigation Services Insurance"
+  },
+  {
+    "label": "Irrigation Services Monitoring",
+    "value": "Irrigation Services Monitoring"
+  },
+  {
+    "label": "Irrigation Services Testing",
+    "value": "Irrigation Services Testing"
+  },
+  {
+    "label": "Irrigation Services Compliance",
+    "value": "Irrigation Services Compliance"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Research",
+    "value": "Farm Machinery Manufacturing Research"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Manufacturing",
+    "value": "Farm Machinery Manufacturing Manufacturing"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Distribution",
+    "value": "Farm Machinery Manufacturing Distribution"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Services",
+    "value": "Farm Machinery Manufacturing Services"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Consulting",
+    "value": "Farm Machinery Manufacturing Consulting"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Solutions",
+    "value": "Farm Machinery Manufacturing Solutions"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Systems",
+    "value": "Farm Machinery Manufacturing Systems"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Equipment",
+    "value": "Farm Machinery Manufacturing Equipment"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Maintenance",
+    "value": "Farm Machinery Manufacturing Maintenance"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Repair",
+    "value": "Farm Machinery Manufacturing Repair"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Installation",
+    "value": "Farm Machinery Manufacturing Installation"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Logistics",
+    "value": "Farm Machinery Manufacturing Logistics"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Supply",
+    "value": "Farm Machinery Manufacturing Supply"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Wholesale",
+    "value": "Farm Machinery Manufacturing Wholesale"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Retail",
+    "value": "Farm Machinery Manufacturing Retail"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Technology",
+    "value": "Farm Machinery Manufacturing Technology"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Software",
+    "value": "Farm Machinery Manufacturing Software"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Hardware",
+    "value": "Farm Machinery Manufacturing Hardware"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Analytics",
+    "value": "Farm Machinery Manufacturing Analytics"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Testing",
+    "value": "Farm Machinery Manufacturing Testing"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Calibration",
+    "value": "Farm Machinery Manufacturing Calibration"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Certification",
+    "value": "Farm Machinery Manufacturing Certification"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Training",
+    "value": "Farm Machinery Manufacturing Training"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Design",
+    "value": "Farm Machinery Manufacturing Design"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Engineering",
+    "value": "Farm Machinery Manufacturing Engineering"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Operations",
+    "value": "Farm Machinery Manufacturing Operations"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Management",
+    "value": "Farm Machinery Manufacturing Management"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Sales",
+    "value": "Farm Machinery Manufacturing Sales"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Development",
+    "value": "Farm Machinery Manufacturing Development"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Production",
+    "value": "Farm Machinery Manufacturing Production"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Processing",
+    "value": "Farm Machinery Manufacturing Processing"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Packaging",
+    "value": "Farm Machinery Manufacturing Packaging"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Export",
+    "value": "Farm Machinery Manufacturing Export"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Import",
+    "value": "Farm Machinery Manufacturing Import"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Trading",
+    "value": "Farm Machinery Manufacturing Trading"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Leasing",
+    "value": "Farm Machinery Manufacturing Leasing"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Financing",
+    "value": "Farm Machinery Manufacturing Financing"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Insurance",
+    "value": "Farm Machinery Manufacturing Insurance"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Monitoring",
+    "value": "Farm Machinery Manufacturing Monitoring"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Testing",
+    "value": "Farm Machinery Manufacturing Testing"
+  },
+  {
+    "label": "Farm Machinery Manufacturing Compliance",
+    "value": "Farm Machinery Manufacturing Compliance"
+  },
+  {
+    "label": "Agricultural Consultancy Research",
+    "value": "Agricultural Consultancy Research"
+  },
+  {
+    "label": "Agricultural Consultancy Manufacturing",
+    "value": "Agricultural Consultancy Manufacturing"
+  },
+  {
+    "label": "Agricultural Consultancy Distribution",
+    "value": "Agricultural Consultancy Distribution"
+  },
+  {
+    "label": "Agricultural Consultancy Services",
+    "value": "Agricultural Consultancy Services"
+  },
+  {
+    "label": "Agricultural Consultancy Consulting",
+    "value": "Agricultural Consultancy Consulting"
+  },
+  {
+    "label": "Agricultural Consultancy Solutions",
+    "value": "Agricultural Consultancy Solutions"
+  },
+  {
+    "label": "Agricultural Consultancy Systems",
+    "value": "Agricultural Consultancy Systems"
+  },
+  {
+    "label": "Agricultural Consultancy Equipment",
+    "value": "Agricultural Consultancy Equipment"
+  },
+  {
+    "label": "Agricultural Consultancy Maintenance",
+    "value": "Agricultural Consultancy Maintenance"
+  },
+  {
+    "label": "Agricultural Consultancy Repair",
+    "value": "Agricultural Consultancy Repair"
+  },
+  {
+    "label": "Agricultural Consultancy Installation",
+    "value": "Agricultural Consultancy Installation"
+  },
+  {
+    "label": "Agricultural Consultancy Logistics",
+    "value": "Agricultural Consultancy Logistics"
+  },
+  {
+    "label": "Agricultural Consultancy Supply",
+    "value": "Agricultural Consultancy Supply"
+  },
+  {
+    "label": "Agricultural Consultancy Wholesale",
+    "value": "Agricultural Consultancy Wholesale"
+  },
+  {
+    "label": "Agricultural Consultancy Retail",
+    "value": "Agricultural Consultancy Retail"
+  },
+  {
+    "label": "Agricultural Consultancy Technology",
+    "value": "Agricultural Consultancy Technology"
+  },
+  {
+    "label": "Agricultural Consultancy Software",
+    "value": "Agricultural Consultancy Software"
+  },
+  {
+    "label": "Agricultural Consultancy Hardware",
+    "value": "Agricultural Consultancy Hardware"
+  },
+  {
+    "label": "Agricultural Consultancy Analytics",
+    "value": "Agricultural Consultancy Analytics"
+  },
+  {
+    "label": "Agricultural Consultancy Testing",
+    "value": "Agricultural Consultancy Testing"
+  },
+  {
+    "label": "Agricultural Consultancy Calibration",
+    "value": "Agricultural Consultancy Calibration"
+  },
+  {
+    "label": "Agricultural Consultancy Certification",
+    "value": "Agricultural Consultancy Certification"
+  },
+  {
+    "label": "Agricultural Consultancy Training",
+    "value": "Agricultural Consultancy Training"
+  },
+  {
+    "label": "Agricultural Consultancy Design",
+    "value": "Agricultural Consultancy Design"
+  },
+  {
+    "label": "Agricultural Consultancy Engineering",
+    "value": "Agricultural Consultancy Engineering"
+  },
+  {
+    "label": "Agricultural Consultancy Operations",
+    "value": "Agricultural Consultancy Operations"
+  },
+  {
+    "label": "Agricultural Consultancy Management",
+    "value": "Agricultural Consultancy Management"
+  },
+  {
+    "label": "Agricultural Consultancy Sales",
+    "value": "Agricultural Consultancy Sales"
+  },
+  {
+    "label": "Agricultural Consultancy Development",
+    "value": "Agricultural Consultancy Development"
+  },
+  {
+    "label": "Agricultural Consultancy Production",
+    "value": "Agricultural Consultancy Production"
+  },
+  {
+    "label": "Agricultural Consultancy Processing",
+    "value": "Agricultural Consultancy Processing"
+  },
+  {
+    "label": "Agricultural Consultancy Packaging",
+    "value": "Agricultural Consultancy Packaging"
+  },
+  {
+    "label": "Agricultural Consultancy Export",
+    "value": "Agricultural Consultancy Export"
+  },
+  {
+    "label": "Agricultural Consultancy Import",
+    "value": "Agricultural Consultancy Import"
+  },
+  {
+    "label": "Agricultural Consultancy Trading",
+    "value": "Agricultural Consultancy Trading"
+  },
+  {
+    "label": "Agricultural Consultancy Leasing",
+    "value": "Agricultural Consultancy Leasing"
+  },
+  {
+    "label": "Agricultural Consultancy Financing",
+    "value": "Agricultural Consultancy Financing"
+  },
+  {
+    "label": "Agricultural Consultancy Insurance",
+    "value": "Agricultural Consultancy Insurance"
+  },
+  {
+    "label": "Agricultural Consultancy Monitoring",
+    "value": "Agricultural Consultancy Monitoring"
+  },
+  {
+    "label": "Agricultural Consultancy Testing",
+    "value": "Agricultural Consultancy Testing"
+  },
+  {
+    "label": "Agricultural Consultancy Compliance",
+    "value": "Agricultural Consultancy Compliance"
+  },
+  {
+    "label": "Beekeeping Research",
+    "value": "Beekeeping Research"
+  },
+  {
+    "label": "Beekeeping Manufacturing",
+    "value": "Beekeeping Manufacturing"
+  },
+  {
+    "label": "Beekeeping Distribution",
+    "value": "Beekeeping Distribution"
+  },
+  {
+    "label": "Beekeeping Services",
+    "value": "Beekeeping Services"
+  },
+  {
+    "label": "Beekeeping Consulting",
+    "value": "Beekeeping Consulting"
+  },
+  {
+    "label": "Beekeeping Solutions",
+    "value": "Beekeeping Solutions"
+  },
+  {
+    "label": "Beekeeping Systems",
+    "value": "Beekeeping Systems"
+  },
+  {
+    "label": "Beekeeping Equipment",
+    "value": "Beekeeping Equipment"
+  },
+  {
+    "label": "Beekeeping Maintenance",
+    "value": "Beekeeping Maintenance"
+  },
+  {
+    "label": "Beekeeping Repair",
+    "value": "Beekeeping Repair"
+  },
+  {
+    "label": "Beekeeping Installation",
+    "value": "Beekeeping Installation"
+  },
+  {
+    "label": "Beekeeping Logistics",
+    "value": "Beekeeping Logistics"
+  },
+  {
+    "label": "Beekeeping Supply",
+    "value": "Beekeeping Supply"
+  },
+  {
+    "label": "Beekeeping Wholesale",
+    "value": "Beekeeping Wholesale"
+  },
+  {
+    "label": "Beekeeping Retail",
+    "value": "Beekeeping Retail"
+  },
+  {
+    "label": "Beekeeping Technology",
+    "value": "Beekeeping Technology"
+  },
+  {
+    "label": "Beekeeping Software",
+    "value": "Beekeeping Software"
+  },
+  {
+    "label": "Beekeeping Hardware",
+    "value": "Beekeeping Hardware"
+  },
+  {
+    "label": "Beekeeping Analytics",
+    "value": "Beekeeping Analytics"
+  },
+  {
+    "label": "Beekeeping Testing",
+    "value": "Beekeeping Testing"
+  },
+  {
+    "label": "Beekeeping Calibration",
+    "value": "Beekeeping Calibration"
+  },
+  {
+    "label": "Beekeeping Certification",
+    "value": "Beekeeping Certification"
+  },
+  {
+    "label": "Beekeeping Training",
+    "value": "Beekeeping Training"
+  },
+  {
+    "label": "Beekeeping Design",
+    "value": "Beekeeping Design"
+  },
+  {
+    "label": "Beekeeping Engineering",
+    "value": "Beekeeping Engineering"
+  },
+  {
+    "label": "Beekeeping Operations",
+    "value": "Beekeeping Operations"
+  },
+  {
+    "label": "Beekeeping Management",
+    "value": "Beekeeping Management"
+  },
+  {
+    "label": "Beekeeping Sales",
+    "value": "Beekeeping Sales"
+  },
+  {
+    "label": "Beekeeping Development",
+    "value": "Beekeeping Development"
+  },
+  {
+    "label": "Beekeeping Production",
+    "value": "Beekeeping Production"
+  },
+  {
+    "label": "Beekeeping Processing",
+    "value": "Beekeeping Processing"
+  },
+  {
+    "label": "Beekeeping Packaging",
+    "value": "Beekeeping Packaging"
+  },
+  {
+    "label": "Beekeeping Export",
+    "value": "Beekeeping Export"
+  },
+  {
+    "label": "Beekeeping Import",
+    "value": "Beekeeping Import"
+  },
+  {
+    "label": "Beekeeping Trading",
+    "value": "Beekeeping Trading"
+  },
+  {
+    "label": "Beekeeping Leasing",
+    "value": "Beekeeping Leasing"
+  },
+  {
+    "label": "Beekeeping Financing",
+    "value": "Beekeeping Financing"
+  },
+  {
+    "label": "Beekeeping Insurance",
+    "value": "Beekeeping Insurance"
+  },
+  {
+    "label": "Beekeeping Monitoring",
+    "value": "Beekeeping Monitoring"
+  },
+  {
+    "label": "Beekeeping Testing",
+    "value": "Beekeeping Testing"
+  },
+  {
+    "label": "Beekeeping Compliance",
+    "value": "Beekeeping Compliance"
+  },
+  {
+    "label": "Coal Mining Research",
+    "value": "Coal Mining Research"
+  },
+  {
+    "label": "Coal Mining Manufacturing",
+    "value": "Coal Mining Manufacturing"
+  },
+  {
+    "label": "Coal Mining Distribution",
+    "value": "Coal Mining Distribution"
+  },
+  {
+    "label": "Coal Mining Services",
+    "value": "Coal Mining Services"
+  },
+  {
+    "label": "Coal Mining Consulting",
+    "value": "Coal Mining Consulting"
+  },
+  {
+    "label": "Coal Mining Solutions",
+    "value": "Coal Mining Solutions"
+  },
+  {
+    "label": "Coal Mining Systems",
+    "value": "Coal Mining Systems"
+  }
+]
